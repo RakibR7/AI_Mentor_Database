@@ -1,0 +1,28 @@
+import json
+import os
+from transformers import AutoTokenizer, AutoModelForCausalLM
+
+api_key = "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"
+
+tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-3.2-1B", token=api_key)
+model = AutoModelForCausalLM.from_pretrained("meta-llama/Llama-3.2-1B", token=api_key)
+
+NOTES = 'notes.json'
+
+def load_notes():
+
+def save_notes(notes):
+ 
+def add_note():
+    
+def talk_to_ai():
+
+while True:
+    choice = input("Choose an option:1. Add a note\n 2. Talk to AI\n 3. Exit\n  ")
+    if choice == '1':
+        add_note()
+    elif choice == '2':
+        talk_to_ai()
+    elif choice == '3':
+        break
+

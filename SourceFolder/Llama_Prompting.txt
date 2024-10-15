@@ -1,0 +1,71 @@
+NOTES: Study notes and context
+
+Future Extensions 
+Edit/Delete Notes: Add options for editing or deleting specific topics or subheadings.
+AI Integration: Integrate the AI to use this structured JSON as context when generating answers.
+Import from File: Allow importing pre-written notes from a text or markdown file.
+
+
+Main FEATURES:
+
+- Can answer basic Questions and Answers
+- Fine Tuning with a study dataset
+- Add a quiz Mode
+- add a summary Mode
+- add the ablity to store notes possibily (would be under context conversation)
+- Can read from subsets of any article of wikipedia
+
+Minor Featues:
+
+- add voice capabilites
+- add flash card generators
+- add mini-games
+- add Areyoulostmode{it will ask you Q's like what is the issue, proceeded by you should start with this few topics to handle first etc and get something going}
+- motivational speech
+- Auto update Wikipedia
+
+Major Features: 
+
+- Topic Recognition
+- Context conversations
+- Website with React and/or Node.js
+
+Tuning:
+- AWS SageMaker (for fine tuning anuy model)
+- Or Tensorflow
+- Or PyTorch
+- Hugging face tranformers
+
+Deployment:
+- AWS
+- Azure 
+- Local
+
+Warnings:
+- Bewware of under and overfitting (use a validation file)
+- 
+
+
+
+
+commnad prompts used -
+pip install wikiextractor
+python -m wikiextractor.WikiExtractor enwiki-20240901-pages-articles-multistream.xml.bz2
+
+You can run it in Docker. It works like a charm.
+
+dockerfile:
+
+FROM python:slim
+
+WORKDIR /app
+RUN pip install wikiextractor
+
+COPY Wikipedia-20211212095544.xml /app/
+
+CMD python -m wikiextractor.WikiExtractor --output /app/output /app/Wikipedia-20211212095544.xml
+Build: docker build --pull --rm -f "Dockerfile" -t wikiextractor:latest
+Run: docker run --rm -it --mount type=bind,source="$(PWD)\output",target=/app/output wikiextractor:latest
+
+Make sure you have an output folder in your current working directory.
+
