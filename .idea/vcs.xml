@@ -2,6 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/SourceFolder/OpenAi/Wikipedia_dumps/wikiextractor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SourceFolder/wikiextractor" vcs="Git" />
   </component>
 </project>
