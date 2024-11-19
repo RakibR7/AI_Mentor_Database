@@ -4,7 +4,9 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/SourceFolder/OpenAi/Wikipedia_dumps/Wiki_extracted_data" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/SourceFolder/OpenAi/StackOverflow/StackOverflowDumps" />
     </content>
+    <content url="file://$MODULE_DIR$/SourceFolder/OpenAi/StackOverflow/training_data" />
     <orderEntry type="jdk" jdkName="Python 3.10" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>

@@ -2,18 +2,6 @@ import json
 import os
 import re
 from pathlib import Path
-#Processing wiki_99...
-
-#Writing 361 articles to biology_training_data.jsonl...
-#Writing complete!
-
-#Final Statistics:
-#Total articles processed: 6955
-#Biology articles found: 361
-#Output saved to: biology_training_data.jsonl
-
-#Successfully created training data with 361 biology articles!
-#Output file: biology_training_data.jsonl
 
 
 def is_biology_related(title, text):
@@ -78,10 +66,10 @@ def create_training_example(title, text):
 
 def process_wiki_files(base_directory, output_file):
     """
-    Process all wiki files in the directory and create biology training data.
+    Process all wiki files in the subdirectories of the base directory and create biology training data.
     """
     biology_articles = []
-    wiki_dir = Path(base_directory) / "AA"
+    wiki_dir = Path(base_directory)
 
     # Counter for logging
     total_processed = 0
@@ -90,43 +78,48 @@ def process_wiki_files(base_directory, output_file):
     print(f"Looking for files in: {wiki_dir}")
 
     try:
-        # Process each wiki file in sorted order
-        for wiki_file in sorted(wiki_dir.glob("wiki_*")):
-            print(f"\nProcessing {wiki_file.name}...")
+        # Process each subdirectory in the base directory
+        for subdir in wiki_dir.iterdir():
+            if subdir.is_dir():
+                print(f"\nProcessing subdirectory: {subdir.name}")
 
-            try:
-                with open(wiki_file, 'r', encoding='utf-8') as file:
-                    for line in file:
-                        total_processed += 1
+                # Process each wiki file in the subdirectory
+                for wiki_file in sorted(subdir.glob("wiki_*")):
+                    print(f"Processing {wiki_file.name}...")
 
-                        try:
-                            article = json.loads(line.strip())
+                    try:
+                        with open(wiki_file, 'r', encoding='utf-8') as file:
+                            for line in file:
+                                total_processed += 1
 
-                            # Skip empty or very short articles
-                            if not article['text'] or len(article['text']) < 200:
-                                continue
+                                try:
+                                    article = json.loads(line.strip())
 
-                            # Check if article is biology related
-                            if is_biology_related(article['title'], article['text']):
-                                biology_found += 1
-                                training_example = create_training_example(
-                                    article['title'],
-                                    article['text']
-                                )
-                                biology_articles.append(training_example)
+                                    # Skip empty or very short articles
+                                    if not article['text'] or len(article['text']) < 200:
+                                        continue
 
-                                # Log progress periodically
-                                if biology_found % 10 == 0:
-                                    print(f"Found {biology_found} biology articles out of {total_processed} processed")
+                                    # Check if article is biology related
+                                    if is_biology_related(article['title'], article['text']):
+                                        biology_found += 1
+                                        training_example = create_training_example(
+                                            article['title'],
+                                            article['text']
+                                        )
+                                        biology_articles.append(training_example)
 
-                        except json.JSONDecodeError:
-                            continue
-                        except KeyError:
-                            continue
+                                        # Log progress periodically
+                                        if biology_found % 10 == 0:
+                                            print(f"Found {biology_found} biology articles out of {total_processed} processed")
 
-            except Exception as e:
-                print(f"Error processing file {wiki_file.name}: {str(e)}")
-                continue
+                                except json.JSONDecodeError:
+                                    continue
+                                except KeyError:
+                                    continue
+
+                    except Exception as e:
+                        print(f"Error processing file {wiki_file.name}: {str(e)}")
+                        continue
 
         # Write biology articles to JSONL file
         if biology_articles:
@@ -171,7 +164,7 @@ def validate_directory(directory):
 if __name__ == "__main__":
     # Specify your base directory where the Wiki_extracted_data folder is located
     base_dir = r"C:\Users\Rakib\Documents\Ai Mentor\SourceFolder\OpenAi\Wikipedia_dumps\Wiki_extracted_data"
-    output_file = "Wikipedia_dumps/training_data_2/biology_training_data.jsonl"
+    output_file = "training_data_2/biology_training_data.jsonl"
 
     try:
         # Validate directory structure before processing

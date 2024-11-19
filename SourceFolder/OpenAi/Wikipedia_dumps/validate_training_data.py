@@ -121,7 +121,7 @@ def validate_jsonl_file(file_path: str) -> tuple:
 
 if __name__ == "__main__":
     # Specify your JSONL file path
-    file_path = "Wikipedia_dumps/training_data_2/biology_training_data.jsonl"
+    file_path = "training_data_2/biology_training_data.jsonl"
 
     print(f"Validating file: {file_path}")
     is_valid, errors = validate_jsonl_file(file_path)

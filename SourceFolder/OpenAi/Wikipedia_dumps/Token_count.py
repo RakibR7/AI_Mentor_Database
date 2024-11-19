@@ -14,7 +14,7 @@ def count_tokens_in_jsonl_file(file_path):
 
 
 # Specify the path to your training data file
-file_path = "Wikipedia_dumps/training_data_2/biology_training_data.jsonl"
+file_path = "training_data_2/biology_training_data.jsonl"
 
 total_tokens = count_tokens_in_jsonl_file(file_path)
 print(f"Total tokens in the file: {total_tokens}")

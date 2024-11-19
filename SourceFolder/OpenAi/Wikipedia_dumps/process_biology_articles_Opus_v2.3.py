@@ -33,6 +33,26 @@ def is_biology_related(title, text):
     return keyword_count >= 3
 
 
+def is_high_quality(text):
+    """
+    Check if the article is of high quality based on length, clarity, and content.
+    """
+    # Check article length
+    if len(text) < 500 or len(text) > 5000:
+        return False
+
+    # Check for clarity and readability
+    sentences = re.split(r'(?<=[^A-Z].[.?]) +(?=[A-Z])', text)
+    if len(sentences) < 5 or any(len(sentence) > 200 for sentence in sentences):
+        return False
+
+    # Check for content quality
+    if 'disambiguation' in text.lower() or 'redirect' in text.lower():
+        return False
+
+    return True
+
+
 def create_training_example(title, text):
     """
     Create a training example in the format needed for GPT fine-tuning.
@@ -66,75 +86,87 @@ def create_training_example(title, text):
 
 def process_wiki_files(base_directory, output_file):
     """
-    Process all wiki files in the directory and create biology training data.
+    Process all wiki files in the subdirectories of the base directory and create biology training data.
     """
     biology_articles = []
-    wiki_dir = Path(base_directory) / "AA"
+    wiki_dir = Path(base_directory)
 
     # Counter for logging
     total_processed = 0
     biology_found = 0
+    high_quality_found = 0
 
     print(f"Looking for files in: {wiki_dir}")
 
     try:
-        # Process each wiki file in sorted order
-        for wiki_file in sorted(wiki_dir.glob("wiki_*")):
-            print(f"\nProcessing {wiki_file.name}...")
+        # Process each subdirectory in the base directory
+        for subdir in wiki_dir.iterdir():
+            if subdir.is_dir():
+                print(f"\nProcessing subdirectory: {subdir.name}")
 
-            try:
-                with open(wiki_file, 'r', encoding='utf-8') as file:
-                    for line in file:
-                        total_processed += 1
+                # Process each wiki file in the subdirectory
+                for wiki_file in sorted(subdir.glob("wiki_*")):
+                    print(f"Processing {wiki_file.name}...")
 
-                        try:
-                            article = json.loads(line.strip())
+                    try:
+                        with open(wiki_file, 'r', encoding='utf-8') as file:
+                            for line in file:
+                                total_processed += 1
 
-                            # Skip empty or very short articles
-                            if not article['text'] or len(article['text']) < 200:
-                                continue
+                                try:
+                                    article = json.loads(line.strip())
 
-                            # Check if article is biology related
-                            if is_biology_related(article['title'], article['text']):
-                                biology_found += 1
-                                training_example = create_training_example(
-                                    article['title'],
-                                    article['text']
-                                )
-                                biology_articles.append(training_example)
+                                    # Skip empty or very short articles
+                                    if not article['text'] or len(article['text']) < 200:
+                                        continue
 
-                                # Log progress periodically
-                                if biology_found % 10 == 0:
-                                    print(f"Found {biology_found} biology articles out of {total_processed} processed")
+                                    # Check if article is biology related
+                                    if is_biology_related(article['title'], article['text']):
+                                        biology_found += 1
 
-                        except json.JSONDecodeError:
-                            continue
-                        except KeyError:
-                            continue
+                                        # Check if article is of high quality
+                                        if is_high_quality(article['text']):
+                                            high_quality_found += 1
+                                            training_example = create_training_example(
+                                                article['title'],
+                                                article['text']
+                                            )
+                                            biology_articles.append(training_example)
 
-            except Exception as e:
-                print(f"Error processing file {wiki_file.name}: {str(e)}")
-                continue
+                                        # Log progress periodically
+                                        if biology_found % 10 == 0:
+                                            print(f"Found {biology_found} biology articles out of {total_processed} processed")
+                                            print(f"Found {high_quality_found} high-quality biology articles")
 
-        # Write biology articles to JSONL file
+                                except json.JSONDecodeError:
+                                    continue
+                                except KeyError:
+                                    continue
+
+                    except Exception as e:
+                        print(f"Error processing file {wiki_file.name}: {str(e)}")
+                        continue
+
+        # Write high-quality biology articles to JSONL file
         if biology_articles:
-            print(f"\nWriting {len(biology_articles)} articles to {output_file}...")
+            print(f"\nWriting {len(biology_articles)} high-quality articles to {output_file}...")
             with open(output_file, 'w', encoding='utf-8') as f:
                 for article in biology_articles:
                     f.write(json.dumps(article) + '\n')
             print("Writing complete!")
         else:
-            print("\nNo biology articles found!")
+            print("\nNo high-quality biology articles found!")
 
         print(f"\nFinal Statistics:")
         print(f"Total articles processed: {total_processed}")
         print(f"Biology articles found: {biology_found}")
+        print(f"High-quality biology articles found: {high_quality_found}")
         print(f"Output saved to: {output_file}")
 
     except Exception as e:
         print(f"Critical error encountered: {str(e)}")
 
-    return biology_found
+    return high_quality_found
 
 
 def validate_directory(directory):
@@ -159,7 +191,7 @@ def validate_directory(directory):
 if __name__ == "__main__":
     # Specify your base directory where the Wiki_extracted_data folder is located
     base_dir = r"C:\Users\Rakib\Documents\Ai Mentor\SourceFolder\OpenAi\Wikipedia_dumps\Wiki_extracted_data"
-    output_file = "Wikipedia_dumps/training_data_2/biology_training_data.jsonl"
+    output_file = "training_data_2/biology_training_data_high_quality.jsonl"
 
     try:
         # Validate directory structure before processing
@@ -168,10 +200,10 @@ if __name__ == "__main__":
             num_articles = process_wiki_files(base_dir, output_file)
 
             if num_articles > 0:
-                print(f"\nSuccessfully created training data with {num_articles} biology articles!")
+                print(f"\nSuccessfully created training data with {num_articles} high-quality biology articles!")
                 print(f"Output file: {output_file}")
             else:
-                print("\nNo biology articles were found in the processed files.")
+                print("\nNo high-quality biology articles were found in the processed files.")
 
     except Exception as e:
         print(f"Error: {str(e)}")

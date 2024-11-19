@@ -4,50 +4,37 @@ import re
 from pathlib import Path
 
 
-def pre_filter_article(title, text):
+def is_biology_related(title, text):
     """
-    Pre-filter articles by checking length, disambiguation/redirect, and checking for the absence of non-biology-related terms in the title.
+    Check if article is biology-related based on keywords in the title or text.
     """
-    # Exclude empty or too short articles (based on title only)
-    if len(title) < 5:
-        return False
-
-    # Exclude disambiguation or redirect pages based on title
-    if 'disambiguation' in title.lower() or 'redirect' in title.lower():
-        return False
-
-    # Exclude non-biology-specific articles based on title
-    non_biology_keywords = ['history', 'engineering', 'politics', 'law', 'finance', 'tournament', 'state', ]
-    if any(keyword in title.lower() for keyword in non_biology_keywords):
-        return False
-
-    return True
-
-
-def is_biology_related(title):
-    """
-    Check if article is biology-related based on keywords in the title.
-    Only checks title for biological relevance.
-    """
-    biology_keywords = {
-        'biology', 'species', 'cell', 'organism', 'gene', 'evolution', 'protein', 'bacteria', 'virus', 'animal',
-        'plant', 'tissue', 'chromosome', 'dna', 'rna', 'enzyme', 'molecular', 'ecology', 'taxonomy', 'biodiversity',
-        'ecosystem', 'reproduction', 'metabolism', 'microbe', 'fungi', 'algae', 'amphibian', 'anatomy', 'physiology',
-        'heredity', 'genetics', 'botany', 'zoology', 'microbiology', 'embryology', 'immune', 'hormone', 'neuron',
-        'biosphere', 'prokaryote', 'eukaryote', 'photosynthesis', 'respiration', 'mammal', 'bird', 'fish', 'insect',
-        'invertebrate', 'vertebrate', 'population', 'symbiosis', 'parasite', 'taxonomy', 'mitochondria', 'chloroplast'
+    keywords = {
+        'biology', 'species', 'cell', 'organism', 'gene', 'evolution',
+        'protein', 'bacteria', 'virus', 'animal', 'plant', 'tissue',
+        'chromosome', 'dna', 'rna', 'enzyme', 'molecular', 'ecology',
+        'taxonomy', 'biodiversity', 'ecosystem', 'reproduction',
+        'metabolism', 'microbe', 'fungi', 'algae', 'amphibian',
+        'anatomy', 'physiology', 'heredity', 'genetics', 'botany',
+        'zoology', 'microbiology', 'embryology', 'immune', 'hormone',
+        'neuron', 'biosphere', 'prokaryote', 'eukaryote', 'photosynthesis',
+        'respiration', 'mammal', 'bird', 'fish', 'insect', 'invertebrate',
+        'vertebrate', 'population', 'symbiosis', 'parasite'
     }
 
     title_lower = title.lower()
+    text_lower = text.lower()
 
-    # Check if any of the biology-related keywords exist in the title
-    return any(keyword in title_lower for keyword in biology_keywords)
+    # Quick check for keywords in the title
+    if any(keyword in title_lower for keyword in keywords):
+        return True
+
+    # Check for keywords in the first 1000 characters of text
+    return sum(1 for keyword in keywords if keyword in text_lower[:1000]) >= 3
 
 
 def is_high_quality(text):
     """
     Check if the article is high-quality based on length, clarity, and content.
-    This is left as is since we're still checking the text for quality.
     """
     # Check for length constraints
     if not (500 <= len(text) <= 5000):
@@ -88,7 +75,7 @@ def create_training_example(title, text):
 
 def process_wiki_files(base_directory, output_file):
     """
-    Process all wiki files in the base directory to extract high-quality biology articles based only on titles.
+    Process all wiki files in the base directory to extract high-quality biology articles.
     """
     wiki_dir = Path(base_directory)
     biology_articles = []
@@ -108,11 +95,10 @@ def process_wiki_files(base_directory, output_file):
                             article = json.loads(line.strip())
                             title, text = article.get('title', ''), article.get('text', '')
 
-                            # Apply pre-filtering first
-                            if not pre_filter_article(title, text):
+                            if len(text) < 200:
                                 continue
 
-                            if is_biology_related(title):
+                            if is_biology_related(title, text):
                                 biology_found += 1
 
                                 if is_high_quality(text):
@@ -161,7 +147,7 @@ def validate_directory(directory):
 
 if __name__ == "__main__":
     base_dir = r"C:\\Users\\Rakib\\Documents\\Ai Mentor\\SourceFolder\\OpenAi\\Wikipedia_dumps\\Wiki_extracted_data"
-    output_file = "Wikipedia_dumps/training_data_2/biology_training_data_high_quality_2.5.jsonl"
+    output_file = "training_data_2/biology_training_data_high_quality.jsonl"
 
     try:
         if validate_directory(base_dir):
