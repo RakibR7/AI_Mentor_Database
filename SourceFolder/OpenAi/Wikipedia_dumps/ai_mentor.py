@@ -1,14 +1,13 @@
 import openai
 
-# Replace 'your-api-key' with your actual OpenAI API key
 openai.api_key = 'your-api-key'
 
 def ask_ai(question):
     response = openai.Completion.create(
-        engine="text-davinci-003",  # Choose the appropriate model
+        engine="text-davinci-003",
         prompt=question,
-        max_tokens=200,  # Limits the length of the response
-        temperature=0.7  # Adjusts the creativity of the response
+        max_tokens=200,
+        temperature=0.7
     )
     return response.choices[0].text.strip()
 

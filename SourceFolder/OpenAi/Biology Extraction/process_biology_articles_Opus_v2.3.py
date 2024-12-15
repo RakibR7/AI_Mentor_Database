@@ -191,7 +191,7 @@ def validate_directory(directory):
 if __name__ == "__main__":
     # Specify your base directory where the Wiki_extracted_data folder is located
     base_dir = r"C:\Users\Rakib\Documents\Ai Mentor\SourceFolder\OpenAi\Wikipedia_dumps\Wiki_extracted_data"
-    output_file = "training_data_2/biology_training_data_high_quality.jsonl"
+    output_file = "../Wikipedia_dumps/training_data_2/biology_training_data_high_quality.jsonl"
 
     try:
         # Validate directory structure before processing

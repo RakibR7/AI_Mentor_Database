@@ -52,7 +52,7 @@ def validate_training_data(file_path, sample_size=100):
 
 if __name__ == "__main__":
     # Specify the path to your training data file
-    training_data_file = "training_data_2/biology_training_data_high_quality.jsonl"
+    training_data_file = "../Wikipedia_dumps/training_data_2/biology_training_data_high_quality.jsonl"
 
     # Validate the training data
     validity_score = validate_training_data(training_data_file)

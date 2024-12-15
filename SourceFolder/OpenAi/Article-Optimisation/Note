@@ -1,0 +1,12 @@
+Trying to Categorize the articles by multiple subject at once.
+Optimising the code to get better results then below.
+
+example..
+
+#2024-10-27 17:49:34,952 - INFO - - mathematics: 693 articles
+#2024-10-27 17:49:34,952 - INFO - - physics: 2575 articles
+#2024-10-27 17:49:34,952 - INFO - - computer_science: 657 articles
+#2024-10-27 17:49:34,952 - INFO - - biology: 1984 articles
+#2024-10-27 17:49:34,952 - INFO - - chemistry: 2517 articles
+#2024-10-27 17:49:34,952 - INFO - - history: 10000 articles
+

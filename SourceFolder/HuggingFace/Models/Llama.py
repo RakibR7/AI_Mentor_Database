@@ -14,7 +14,7 @@ if tokenizer.pad_token is None:
     tokenizer.pad_token = tokenizer.eos_token
 
 # Define the file name where notes will be stored
-NOTES_FILE = 'study_notes.json'
+NOTES_FILE = '../Output/study_notes.json'
 
 # Load existing notes from the JSON file if it exists
 def load_notes():

@@ -34,7 +34,7 @@ Tuning:
 - AWS SageMaker (for fine tuning anuy model)
 - Or Tensorflow
 - Or PyTorch
-- Hugging face tranformers
+- Hugging face transformers
 
 Deployment:
 - AWS
@@ -42,13 +42,12 @@ Deployment:
 - Local
 
 Warnings:
-- Bewware of under and overfitting (use a validation file)
-- 
+- Beware of under and overfitting (use a validation file)
 
 
 
 
-commnad prompts used -
+command prompts used -
 pip install wikiextractor
 python -m wikiextractor.WikiExtractor enwiki-20240901-pages-articles-multistream.xml.bz2
 
