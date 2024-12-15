@@ -1,36 +1,109 @@
-install for wikipedia dumps
+# Installation and Usage for Wikipedia Dumps
 
-python -m wikiextractor.WikiExtractor "C:\Users\Rakib\Documents\Ai Mentor\SourceFolder\OpenAi\Wikipedia_dumps\enwiki-20240901-pages-articles-multistream.xml.bz2" -o "C:\Users\Rakib\Documents\Ai Mentor\SourceFolder\OpenAi\Wikipedia_dumps\Wiki_extracted_data" --json
+This guide provides step-by-step instructions for installing and using WikiExtractor to process Wikipedia dumps.
 
-example below:
+## Prerequisites
+1. Python 3.9 or higher
+2. WSL (Windows Subsystem for Linux) for seamless extraction
 
-python -m wikiextractor.WikiExtractor "C:\Users\Rakib\Documents\Ai Mentor\SourceFolder\OpenAi\Wikipedia_dumps\enwiki-20240901-pages-articles-multistream.xml.bz2" -o "C:\Users\Rakib\Documents\Ai Mentor\SourceFolder\OpenAi\Wikipedia_dumps\Wiki_extracted_data" --json
+---
 
-Install WSL (to extract wiki dumps)
+## Instructions for Extracting Wikipedia Dumps
 
-python3 --version
-sudo apt update
-sudo apt install software-properties-common
-sudo add-apt-repository ppa:deadsnakes/ppa
-sudo apt update
-sudo apt install python3.9 python3.9-venv python3.9-dev
-python3.9 --version
-sudo apt install python3-pip
-pip3 --version
-sudo apt update
-sudo apt install pipx
-export PATH=$PATH:~/.local/bin
-echo 'export PATH=$PATH:~/.local/bin' >> ~/.bashrc
-source ~/.bashrc
-pipx install wikiextractor --python python3.9
+### Example Command
 
-then finally...
-wikiextractor "/mnt/c/Users/Rakib/Documents/Ai Mentor/SourceFolder/OpenAi/Wikipedia_dumps/enwiki-20240901-pages-articles-multistream.xml.bz2" -o "/mnt/c/Users/Rakib/Documents/Ai Mentor/SourceFolder/OpenAi/Wikipedia_dumps/Wiki_extracted_data" --json
+Run the following command to extract Wikipedia dumps using WikiExtractor:
 
+```bash
+python -m wikiextractor.WikiExtractor "C:\Users\Rakib\Documents\Ai Mentor\SourceFolder\OpenAi\Wikipedia_dumps\enwiki-20240901-pages-articles-multistream.xml.bz2" \
+  -o "C:\Users\Rakib\Documents\Ai Mentor\SourceFolder\OpenAi\Wikipedia_dumps\Wiki_extracted_data" --json
+```
 
+---
 
+## Setting Up WSL for Wikipedia Dump Extraction
 
-Alternative version:
+### Step 1: Install Python 3.9 on WSL
+
+1. **Verify Python Version**:
+   ```bash
+   python3 --version
+   ```
+
+2. **Update Package List**:
+   ```bash
+   sudo apt update
+   ```
+
+3. **Install Required Tools**:
+   ```bash
+   sudo apt install software-properties-common
+   ```
+
+4. **Add Python PPA**:
+   ```bash
+   sudo add-apt-repository ppa:deadsnakes/ppa
+   sudo apt update
+   ```
+
+5. **Install Python 3.9**:
+   ```bash
+   sudo apt install python3.9 python3.9-venv python3.9-dev
+   python3.9 --version
+   ```
+
+6. **Install Pip**:
+   ```bash
+   sudo apt install python3-pip
+   pip3 --version
+   ```
+
+### Step 2: Install pipx and WikiExtractor
+
+1. **Install pipx**:
+   ```bash
+   sudo apt install pipx
+   export PATH=$PATH:~/.local/bin
+   echo 'export PATH=$PATH:~/.local/bin' >> ~/.bashrc
+   source ~/.bashrc
+   ```
+
+2. **Install WikiExtractor**:
+   ```bash
+   pipx install wikiextractor --python python3.9
+   ```
+
+---
+
+## Running WikiExtractor with WSL
+
+Run the following command in your WSL terminal:
+
+```bash
+wikiextractor \
+  "/mnt/c/Users/Rakib/Documents/Ai Mentor/SourceFolder/OpenAi/Wikipedia_dumps/enwiki-20240901-pages-articles-multistream.xml.bz2" \
+  -o "/mnt/c/Users/Rakib/Documents/Ai Mentor/SourceFolder/OpenAi/Wikipedia_dumps/Wiki_extracted_data" --json
+```
+
+---
+
+### Notes
+- Ensure that file paths in WSL use the `/mnt/c/` prefix for Windows drives.
+- The `--json` flag outputs the extracted data in JSON format for easy parsing.
+
+## Happy extracting!
+
+### .
+
+### .
+
+### .
+
+### .
+
+### .
+
+# Alternative version:
 
 
 # WikiExtractor Setup Guide on WSL
