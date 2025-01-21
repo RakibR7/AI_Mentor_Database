@@ -1,0 +1,41 @@
+
+#Right click attached database and new SQL query
+#This will return the names of all tables in the database
+SELECT name
+FROM sys.tables;
+
+
+
+#You can identify the correct column names by inspecting the schema of the Posts table. Use the following query to retrieve the column names
+SELECT COLUMN_NAME
+FROM INFORMATION_SCHEMA.COLUMNS
+WHERE TABLE_NAME = 'Posts';
+
+
+
+
+
+#First version of finding results by question and answer scores for relevance
+SELECT
+    q.Id AS QuestionId,
+    q.Title AS QuestionTitle,
+    q.Body AS QuestionBody,
+    q.Tags AS Tags,
+    a.Id AS AnswerId,
+    a.Body AS AnswerBody,
+    a.Score AS AnswerScore
+FROM Posts q
+JOIN Posts a ON q.Id = a.ParentId
+WHERE q.PostTypeId = 1 -- Questions
+  AND a.PostTypeId = 2 -- Answers
+  AND q.Score > 0      -- Filter for high-quality questions (optional)
+  AND a.Score > 0      -- Filter for high-quality answers (optional)
+ORDER BY q.Score DESC, a.Score DESC; -- Sort by question and answer quality
+
+
+#Second version of finding results by question and answer scores for relevance
+
+
+
+
+
