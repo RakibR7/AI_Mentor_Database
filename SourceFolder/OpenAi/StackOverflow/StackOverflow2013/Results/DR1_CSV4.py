@@ -1,3 +1,7 @@
+#Working prompt completion style
+# Not used anymore
+
+
 import csv
 import json
 from bs4 import BeautifulSoup
