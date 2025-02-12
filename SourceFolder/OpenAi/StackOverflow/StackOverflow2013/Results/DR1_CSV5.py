@@ -14,8 +14,8 @@ def clean_html(html_str):
         return html_str.strip()
 
 
-input_csv = "DR1_CSV4.csv"
-output_jsonl = "DR1_CSV5.jsonl"
+input_csv = "DR1_CSV5_Shortened_20.csv"
+output_jsonl = "DR1_CSV5_Shortened_20.csv.jsonl"
 
 with open(input_csv, "r", encoding="utf-8") as f_in, open(output_jsonl, "w", encoding="utf-8") as f_out:
     reader = csv.reader(f_in)
