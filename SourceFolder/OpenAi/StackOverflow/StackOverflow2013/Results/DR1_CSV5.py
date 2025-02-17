@@ -2,6 +2,8 @@ import csv
 import json
 from bs4 import BeautifulSoup
 
+from SourceFolder.OpenAi.StackOverflow.StackOverflow2013.Results.DR1_CSV4 import input_csv
+
 
 def clean_html(html_str):
     if not html_str or not html_str.strip():
@@ -13,9 +15,9 @@ def clean_html(html_str):
         print(f"Warning: Failed to parse HTML — {e}")
         return html_str.strip()
 
-
-input_csv = "DR1_CSV5_Shortened_20.csv"
-output_jsonl = "DR1_CSV5_Shortened_20.csv.jsonl"
+input_csv = "DR1_CSV6_shortened_3381.csv"
+#input_csv = "DR1_CSV5_Shortened_20.csv"
+output_jsonl = "DR1_CSV6_shortened_3381.jsonl"
 
 with open(input_csv, "r", encoding="utf-8") as f_in, open(output_jsonl, "w", encoding="utf-8") as f_out:
     reader = csv.reader(f_in)
