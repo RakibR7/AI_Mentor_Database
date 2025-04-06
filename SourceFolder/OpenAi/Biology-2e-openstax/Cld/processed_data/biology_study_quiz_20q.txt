@@ -1,0 +1,125 @@
+Biology Study Quiz - 20 Questions
+
+Question 1 (Chapter 4):
+What is plasmodesma?
+
+Question 2 (Chapter 7):
+What is cellular respiration?
+
+Question 3 (Chapter 11):
+How do organisms with haploid-dominant life cycles ensure continued genetic diversification in offspring without using a meiotic process?
+
+Question 4 (Chapter 12):
+What is Mendelian inheritance?
+
+Question 5 (Chapter 15):
+What is the effect of degeneracy on the genetic code?
+
+Question 6 (Chapter 18):
+What is reinforcement?
+
+Question 7 (Chapter 19):
+What is stabilizing selection?
+
+Question 8 (Chapter 22):
+What is the statement that both types, bacteria and archaea, have the same basic structures, but built from different chemical components?
+
+Question 9 (Chapter 25):
+What is the dominant organism in fern?
+
+Question 10 (Chapter 26):
+What is the difference between monocots and dicots?
+
+Question 11 (Chapter 27):
+What are specialized tissues?
+
+Question 12 (Chapter 30):
+What is gravitropism?
+
+Question 13 (Chapter 31):
+What is the main difference, from an energy point of view, between photosynthesis and biological nitrogen fixation?
+
+Question 14 (Chapter 34):
+What is the role of the accessory organs in digestion?
+
+Question 15 (Chapter 35):
+What is myelin, and how does it aid axonal propagation?
+
+Question 16 (Chapter 40):
+What is systemic circulation?
+
+Question 17 (Chapter 42):
+What is a T cell receptor (TCR)?
+
+Question 18 (Chapter 42):
+What is the first antibody class to appear in the serum in response to a newly encountered pathogen?
+
+Question 19 (Chapter 46):
+What is the difference between grazing and detritus food webs?
+
+Question 20 (Chapter 47):
+How do exotic species introduce risks for native ecosystems?
+
+
+--- ANSWERS ---
+
+Answer 1:
+Plasmodesmas are membranous structures that connect the nuclei of adjacent plant cells, allowing for the exchange of genetic material between them.
+
+Answer 2:
+Cellular respiration is the process by which cells convert glucose into energy, producing ATP and carbon dioxide as byproducts.
+
+Answer 3:
+Organisms with haploid-dominant life cycles use asexual reproduction methods such as binary fission or spores, which do not involve meiosis and therefore maintain genetic uniformity.
+
+Answer 4:
+Mendelian inheritance is the passing of inherited traits from parents to offspring according to specific rules.
+
+Answer 5:
+Degeneracy of the genetic code makes cells more robust to mutations, as multiple codons can code for the same amino acid.
+
+Answer 6:
+Reinforcement refers to the continued divergence of species based on the low fitness of hybrid offspring.
+
+Answer 7:
+Stabilizing selection is the process by which individuals with extreme traits are less likely to survive and reproduce, leading to a more stable population.
+
+Answer 8:
+This statement refers to the fact that both bacteria and archaea have cell membranes and other structural components that are composed of lipids and proteins, but the specific types of lipids and proteins differ between the two groups.
+
+Answer 9:
+The dominant organism in fern is the sporophyte.
+
+Answer 10:
+Monocots have fibrous roots, leaves with parallel veins, and flowers that lack petals. Dicots have taproots, net-veined leaves, and flowers with petals.
+
+Answer 11:
+Specialized tissues are cells that have become adapted to a specific function or task, such as muscle tissue for movement or nerve tissue for sensation and communication.
+
+Answer 12:
+Gravitropism is the growth response of plants towards gravity, where roots grow downwards and shoots grow upwards.
+
+Answer 13:
+The main difference is that photosynthesis produces organic compounds using light energy, while biological nitrogen fixation requires the input of bacterial metabolic energy.
+
+Answer 14:
+The accessory organs (lingual tonsils, submandibular glands, and Peyer's patches) produce digestive enzymes that help break down food into smaller molecules.
+
+Answer 15:
+Myelin is a fatty insulating layer surrounding the axons of some neurons. It facilitates faster propagation of action potentials by reducing electrical resistance and increasing the effective radius of the axon.
+
+Answer 16:
+Systemic circulation refers to the movement of blood from the left side of the heart through the aorta and its branches, to the body's tissues and organs, and back to the right side of the heart through the pulmonary veins.
+
+Answer 17:
+A T cell receptor (TCR) is a protein complex on the surface of a T cell that recognizes and binds to specific antigens presented by an Antigen-presenting cell (APC).
+
+Answer 18:
+The first antibody class to appear in the serum in response to a newly encountered pathogen is IgM.
+
+Answer 19:
+Grazing food webs are based on consuming plants directly, while detritus food webs are based on decomposing plant material.
+
+Answer 20:
+Exotic species are especially threatening to island ecosystems.
+
