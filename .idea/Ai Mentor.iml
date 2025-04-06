@@ -7,6 +7,8 @@
       <excludeFolder url="file://$MODULE_DIR$/SourceFolder/OpenAi/StackOverflow/StackOverflowDumps" />
       <excludeFolder url="file://$MODULE_DIR$/SourceFolder/OpenAi/Wikipedia_dumps/training_data" />
       <excludeFolder url="file://$MODULE_DIR$/SourceFolder/OpenAi/Wikipedia_dumps/training_data_2" />
+      <excludeFolder url="file://$MODULE_DIR$/SourceFolder/OpenAi/Biology-2e-openstax/Cld/processed_data" />
+      <excludeFolder url="file://$MODULE_DIR$/SourceFolder/OpenAi/Biology-2e-openstax/Dataset" />
     </content>
     <content url="file://$MODULE_DIR$/SourceFolder/OpenAi/StackOverflow/training_data" />
     <orderEntry type="jdk" jdkName="Python 3.10" jdkType="Python SDK" />
