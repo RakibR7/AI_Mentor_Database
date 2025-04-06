@@ -1,0 +1,15 @@
+python cleanup_text.py Biology2e_extracted.txt Biology2e_cleaned.txt
+python split_and_create_qna.py Biology2e_cleaned.txt Biology2e_split_and_create_qna.txt
+
+for solutionpdf to text -
+python extract_pdfToText_solutions.py Biology2e-Solution.pdf Biology2e-Solution.txt
+
+cluade -
+python question-answer-matcher.py Biology2e-Solution.txt Biology2e_cleaned.txt
+python improved-question-matcher.py Biology2e-Solution.txt Biology2e_cleaned.txt
+
+postprocess_for_finetuning.py
+python postprocess_for_finetuning.py question_matches.jsonl Biology2e_cleaned.txt
+
+python filter_hardcoded_bad_entries.py cleaned_for_finetuning.jsonl cleaned_final.jsonl
+
