@@ -40,7 +40,7 @@ def remove_repeated_lines(input_file, output_file, noise_phrases, debug=False):
 
 if __name__ == "__main__":
     input_txt = "Biology2e_extracted.txt"
-    cleaned_txt = "Biology2e_cleaned.txt"
+    cleaned_txt = "biology_textbook.txt"
 
     noise_phrases = [
         "access for free at",  # partial match

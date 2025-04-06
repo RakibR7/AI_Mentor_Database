@@ -158,7 +158,7 @@ def create_qna_jsonl(textbook_map, solution_map, output_file):
 
 
 def main():
-    cleaned_txt = "Biology2e_cleaned.txt"   # Your cleaned textbook file
+    cleaned_txt = "biology_textbook.txt"   # Your cleaned textbook file
     solutions_txt = "Biology2e-Solution.txt" # Your solutions file extracted from the PDF
     output_jsonl = "final_bio_qa.jsonl"
 
