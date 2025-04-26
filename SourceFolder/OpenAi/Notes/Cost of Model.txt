@@ -1,0 +1,20 @@
+INFO:root:Analyzing current dataset...
+37850it [00:07, 4782.62it/s]
+INFO:root:
+Optimizing dataset for $50 budget...
+INFO:root:Optimized dataset created:
+INFO:root:Total conversations: 4052
+INFO:root:Total tokens: 1666497
+INFO:root:Estimated cost: $49.99
+INFO:root:
+Optimizing dataset for $100 budget...
+INFO:root:Optimized dataset created:
+INFO:root:Total conversations: 7954
+INFO:root:Total tokens: 3333117
+INFO:root:Estimated cost: $99.99
+INFO:root:
+Optimizing dataset for $200 budget...
+INFO:root:Optimized dataset created:
+INFO:root:Total conversations: 14186
+INFO:root:Total tokens: 6007099
+INFO:root:Estimated cost: $180.21

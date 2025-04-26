@@ -3,11 +3,7 @@ from pdfminer.high_level import extract_text
 
 
 def pdf_to_text(input_pdf, output_txt):
-    """
-    Extract text from a PDF and save it to a .txt file.
-    """
     text = extract_text(input_pdf)
-    # Optionally do a simple cleanup (remove extra blank lines, strip spaces)
     cleaned = "\n".join(line.strip() for line in text.splitlines() if line.strip())
     with open(output_txt, "w", encoding="utf-8") as f:
         f.write(cleaned)

@@ -1,0 +1,16 @@
+#pip install openai
+
+import openai
+
+openai.api_key = 'your-api-key'
+
+# Upload your dataset
+response = openai.File.create(
+    file=open("your_dataset.jsonl"),
+    purpose='fine-tune'
+)
+
+fine_tune_response = openai.FineTune.create(
+    training_file=response['id'],
+    model="gpt-3.5-turbo"
+)

@@ -1,0 +1,60 @@
+2024-10-28 13:00:21,545 - INFO - Extracting biology content...
+2024-10-28 13:01:07,164 - INFO - 
+Initial Biology Content Statistics:
+2024-10-28 13:01:07,165 - INFO - Total examples found: 527
+2024-10-28 13:01:07,165 - INFO - Average confidence score: 0.44
+2024-10-28 13:01:07,165 - INFO - 
+Subfield distribution:
+2024-10-28 13:01:07,165 - INFO - - evolution: 363
+2024-10-28 13:01:07,165 - INFO - - ecology: 351
+2024-10-28 13:01:07,165 - INFO - - anatomy_physiology: 218
+2024-10-28 13:01:07,165 - INFO - - molecular_biology: 131
+2024-10-28 13:01:07,165 - INFO - - genetics: 45
+2024-10-28 13:01:07,174 - INFO - - microbiology: 187
+2024-10-28 13:01:07,174 - INFO - - cell_biology: 78
+2024-10-28 13:01:07,174 - INFO - 
+Generating 2973 additional examples...
+2024-10-28 13:01:07,292 - INFO - 
+Final dataset created with 3500 examples
+2024-10-28 13:01:07,292 - INFO - Output saved to: training_data/biology_training_data.jsonl
+2024-10-28 13:01:07,294 - INFO - 
+Biology content extraction and balancing complete!
+2024-10-28 14:20:17,980 - INFO - Starting to process file: training_data\Filtered\gpt4_training_data.jsonl
+2024-10-28 14:20:18,127 - INFO - Processed 1000 conversations, found 34 biology conversations
+2024-10-28 14:20:18,273 - INFO - Processed 2000 conversations, found 59 biology conversations
+2024-10-28 14:20:18,415 - INFO - Processed 3000 conversations, found 72 biology conversations
+2024-10-28 14:20:18,567 - INFO - Processed 4000 conversations, found 97 biology conversations
+2024-10-28 14:20:18,712 - INFO - Processed 5000 conversations, found 120 biology conversations
+2024-10-28 14:20:18,856 - INFO - Processed 6000 conversations, found 142 biology conversations
+2024-10-28 14:20:18,997 - INFO - Processed 7000 conversations, found 162 biology conversations
+2024-10-28 14:20:19,145 - INFO - Processed 8000 conversations, found 185 biology conversations
+2024-10-28 14:20:19,317 - INFO - Processed 9000 conversations, found 209 biology conversations
+2024-10-28 14:20:19,492 - INFO - Processed 10000 conversations, found 234 biology conversations
+2024-10-28 14:20:19,633 - INFO - Processed 11000 conversations, found 258 biology conversations
+2024-10-28 14:20:19,773 - INFO - Processed 12000 conversations, found 282 biology conversations
+2024-10-28 14:20:19,913 - INFO - Processed 13000 conversations, found 306 biology conversations
+2024-10-28 14:20:20,055 - INFO - Processed 14000 conversations, found 328 biology conversations
+2024-10-28 14:20:20,195 - INFO - Processed 15000 conversations, found 354 biology conversations
+2024-10-28 14:20:20,342 - INFO - Processed 16000 conversations, found 376 biology conversations
+2024-10-28 14:20:20,482 - INFO - Processed 17000 conversations, found 402 biology conversations
+2024-10-28 14:20:20,633 - INFO - Processed 18000 conversations, found 425 biology conversations
+2024-10-28 14:20:20,795 - INFO - Processed 19000 conversations, found 454 biology conversations
+2024-10-28 14:20:20,937 - INFO - Processed 20000 conversations, found 475 biology conversations
+2024-10-28 14:20:21,074 - INFO - Processed 21000 conversations, found 497 biology conversations
+2024-10-28 14:20:21,208 - INFO - Processed 22000 conversations, found 517 biology conversations
+2024-10-28 14:20:21,348 - INFO - Processed 23000 conversations, found 540 biology conversations
+2024-10-28 14:20:21,488 - INFO - Processed 24000 conversations, found 559 biology conversations
+2024-10-28 14:20:21,624 - INFO - Processed 25000 conversations, found 578 biology conversations
+2024-10-28 14:20:21,762 - INFO - Processed 26000 conversations, found 595 biology conversations
+2024-10-28 14:20:21,900 - INFO - Processed 27000 conversations, found 619 biology conversations
+2024-10-28 14:20:22,044 - INFO - Processed 28000 conversations, found 642 biology conversations
+2024-10-28 14:20:22,182 - INFO - Processed 29000 conversations, found 664 biology conversations
+2024-10-28 14:20:22,322 - INFO - Processed 30000 conversations, found 680 biology conversations
+2024-10-28 14:20:22,461 - INFO - Processed 31000 conversations, found 703 biology conversations
+2024-10-28 14:20:22,605 - INFO - Processed 32000 conversations, found 726 biology conversations
+2024-10-28 14:20:22,748 - INFO - Processed 33000 conversations, found 750 biology conversations
+2024-10-28 14:20:22,886 - INFO - Processed 34000 conversations, found 776 biology conversations
+2024-10-28 14:20:23,024 - INFO - Processed 35000 conversations, found 799 biology conversations
+2024-10-28 14:20:23,167 - INFO - Processed 36000 conversations, found 823 biology conversations
+2024-10-28 14:20:23,306 - INFO - Processed 37000 conversations, found 844 biology conversations
+2024-10-28 14:20:23,494 - INFO - Extracted 866 biology conversations
