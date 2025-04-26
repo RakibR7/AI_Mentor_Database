@@ -1,0 +1,259 @@
+2024-10-27 11:59:31,284 - INFO - Processing C:\Users\Rakib\Documents\Ai Mentor\SourceFolder\OpenAi\Wikipedia_dumps\training_data\validated_training_data.jsonl...
+2024-10-27 11:59:31,284 - INFO - Current working directory: C:\Users\Rakib\Documents\Ai Mentor\SourceFolder\OpenAi\Wikipedia_dumps
+2024-10-27 11:59:31,291 - INFO - First conversation structure:
+2024-10-27 11:59:31,291 - INFO - {
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are a knowledgeable AI mentor helping users learn about various topics."
+    },
+    {
+      "role": "user",
+      "content": "What is Nebunebty?"
+    },
+    {
+      "role": "assistant",
+      "content": "Nebunebty (also Nebunebti) was an ancient Egyptian queen who has been tentatively associated with the 5 Dynasty of the Old Kingdom. Her name translates as 'the gold of the Two Ladies', or 'golden are the Two Ladies'.\nLife.\nNebunebty is poorly attested, and the particulars of her reign are highly uncertain. It has been proposed that she lived during the 5 or 6 Dynasty, though French Egyptologist Michel Baud felt that this range might be narrowed down to the first half of the 5 Dynasty, on account"
+    }
+  ]
+}
+2024-10-27 11:59:31,301 - INFO - Skipped conversation 1 due to: content_length_18
+2024-10-27 11:59:31,301 - INFO - Conversation structure: {
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are a knowledgeable AI mentor helping users learn about various topics."
+    },
+    {
+      "role": "user",
+      "content": "What is Nebunebty?"
+    },
+    {
+      "role": "assistant",
+      "content": "Nebunebty (also Nebunebti) was an ancient Egyptian queen who has been tentatively associated with the 5 Dynasty of the Old Kingdom. Her name translates as 'the gold of the Two Ladies', or 'golden are the Two Ladies'.\nLife.\nNebunebty is poorly attested, and the particulars of her reign are highly uncertain. It has been proposed that she lived during the 5 or 6 Dynasty, though French Egyptologist Michel Baud felt that this range might be narrowed down to the first half of the 5 Dynasty, on account"
+    }
+  ]
+}
+2024-10-27 11:59:31,303 - INFO - Skipped conversation 2 due to: content_length_17
+2024-10-27 11:59:31,304 - INFO - Conversation structure: {
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are a knowledgeable AI mentor helping users learn about various topics."
+    },
+    {
+      "role": "user",
+      "content": "What is Xing Xie?"
+    },
+    {
+      "role": "assistant",
+      "content": "Xing Xie (Chinese: ) is a partner research manager at Microsoft Research Asia. As a computer scientist, his research has focused on data mining, social computing, and responsible AI. He has published more than 400 papers which have been cited more than 60,000 times. He has been on organizing committees or helped with the programs of over 70 conferences and workshops.\nXie is a recipient of a number of awards, including the IEEE MDM 2023 Test-of-Time Award, ACM SIGKDD 2022 Test-of-Time Award, ACM "
+    }
+  ]
+}
+2024-10-27 11:59:31,306 - INFO - Skipped conversation 3 due to: content_length_18
+2024-10-27 11:59:31,306 - INFO - Conversation structure: {
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are a knowledgeable AI mentor helping users learn about various topics."
+    },
+    {
+      "role": "user",
+      "content": "What is Brivadois?"
+    },
+    {
+      "role": "assistant",
+      "content": "Brivadois () is a natural region of France and a traditional country of Auvergne located to the west of the department of Haute-Loire and in a small part of Puy-de-D\u00f4me and Cantal.\nHistory.\nThe Brivadois region derives its name from its capital, Brioude. During the Carolingian era, it was one of the five secondary counties of Auvergne along with Clermont, Turluron, Tallende and Carlat, and it had its own special viguerie. Ecclesiastically, Brivadois was initially part of the Diocese of Clermont."
+    }
+  ]
+}
+2024-10-27 11:59:31,306 - INFO - Skipped conversation 4 due to: content_length_17
+2024-10-27 11:59:31,306 - INFO - Conversation structure: {
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are a knowledgeable AI mentor helping users learn about various topics."
+    },
+    {
+      "role": "user",
+      "content": "What is Polygood?"
+    },
+    {
+      "role": "assistant",
+      "content": "Polygood is a recycled plastic surface material produced by The Good Plastic Company. The panels are manufactured using only recycled post-consumer and post-industrial polystyrene plastic waste and are primarily used in sustainable furniture production and interior design.\nHistory.\nThe Good Plastic Company, the creator of Polygood, was founded in 2018 with the goal of repurposing significant amounts of plastic waste to make a useful surface design material. The company began production in the Ne"
+    }
+  ]
+}
+2024-10-27 11:59:31,308 - INFO - Skipped conversation 5 due to: content_length_19
+2024-10-27 11:59:31,308 - INFO - Conversation structure: {
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are a knowledgeable AI mentor helping users learn about various topics."
+    },
+    {
+      "role": "user",
+      "content": "What is Maia McCoy?"
+    },
+    {
+      "role": "assistant",
+      "content": "Maia Alyse McCoy (born 9 December 1996) is an American sprinter, who currently represents Liberia.\nEarly life.\nMaia Alyse McCoy was born and raised in Memphis, Tennessee. She grew up playing basketball but was convinced to run track in high school. She attended Whitehaven High School. McCoy attended the University of Tennessee where she earned her undergraduate degree in Communication Studies with a minor in Journalism. She continued her education at the same institution, completing a master's d"
+    }
+  ]
+}
+2024-10-27 11:59:37,131 - INFO - 
+=== Processing Statistics ===
+2024-10-27 11:59:37,132 - INFO - Total conversations processed: 39638
+2024-10-27 11:59:37,132 - INFO - Successfully processed: 37850
+2024-10-27 11:59:37,132 - INFO - Skipped: 1788
+2024-10-27 11:59:37,132 - INFO - 
+Validation Failure Reasons:
+2024-10-27 11:59:37,132 - INFO - - content_length_18: 366
+2024-10-27 11:59:37,132 - INFO - - content_length_17: 238
+2024-10-27 11:59:37,132 - INFO - - content_length_19: 669
+2024-10-27 11:59:37,132 - INFO - - content_length_17911: 1
+2024-10-27 11:59:37,132 - INFO - - content_length_16: 176
+2024-10-27 11:59:37,132 - INFO - - content_length_15: 117
+2024-10-27 11:59:37,132 - INFO - - content_length_13: 31
+2024-10-27 11:59:37,132 - INFO - - content_length_14: 58
+2024-10-27 11:59:37,132 - INFO - - content_length_16753: 1
+2024-10-27 11:59:37,132 - INFO - - content_length_18037: 1
+2024-10-27 11:59:37,132 - INFO - - content_length_16628: 1
+2024-10-27 11:59:37,132 - INFO - - content_length_17862: 1
+2024-10-27 11:59:37,132 - INFO - - content_length_18916: 1
+2024-10-27 11:59:37,132 - INFO - - content_length_18648: 1
+2024-10-27 11:59:37,132 - INFO - - content_length_15059: 1
+2024-10-27 11:59:37,132 - INFO - - content_length_15793: 1
+2024-10-27 11:59:37,132 - INFO - - content_length_20178: 1
+2024-10-27 11:59:37,132 - INFO - - content_length_16265: 1
+2024-10-27 11:59:37,132 - INFO - - content_length_16349: 1
+2024-10-27 11:59:37,132 - INFO - - content_length_16186: 1
+2024-10-27 11:59:37,132 - INFO - - content_length_15872: 1
+2024-10-27 11:59:37,132 - INFO - - content_length_16173: 1
+2024-10-27 11:59:37,132 - INFO - - content_length_16226: 1
+2024-10-27 11:59:37,132 - INFO - - content_length_15308: 1
+2024-10-27 11:59:37,132 - INFO - - content_length_15249: 1
+2024-10-27 11:59:37,132 - INFO - - content_length_15650: 1
+2024-10-27 11:59:37,132 - INFO - - content_length_16592: 1
+2024-10-27 11:59:37,132 - INFO - - content_length_15111: 1
+2024-10-27 11:59:37,132 - INFO - - content_length_16425: 1
+2024-10-27 11:59:37,132 - INFO - - content_length_17514: 1
+2024-10-27 11:59:37,132 - INFO - - content_length_16254: 1
+2024-10-27 11:59:37,132 - INFO - - content_length_15656: 1
+2024-10-27 11:59:37,132 - INFO - - content_length_15565: 1
+2024-10-27 11:59:37,133 - INFO - - content_length_17325: 1
+2024-10-27 11:59:37,133 - INFO - - content_length_16594: 1
+2024-10-27 11:59:37,133 - INFO - - content_length_15220: 1
+2024-10-27 11:59:37,133 - INFO - - content_length_16230: 1
+2024-10-27 11:59:37,133 - INFO - - content_length_18415: 1
+2024-10-27 11:59:37,133 - INFO - - content_length_16924: 1
+2024-10-27 11:59:37,133 - INFO - - content_length_15343: 1
+2024-10-27 11:59:37,133 - INFO - - content_length_15982: 1
+2024-10-27 11:59:37,133 - INFO - - content_length_17306: 1
+2024-10-27 11:59:37,133 - INFO - - content_length_18871: 1
+2024-10-27 11:59:37,133 - INFO - - content_length_15905: 1
+2024-10-27 11:59:37,133 - INFO - - content_length_15167: 1
+2024-10-27 11:59:37,133 - INFO - - content_length_17742: 1
+2024-10-27 11:59:37,133 - INFO - - content_length_15959: 1
+2024-10-27 11:59:37,133 - INFO - - content_length_15906: 1
+2024-10-27 11:59:37,133 - INFO - - content_length_15189: 1
+2024-10-27 11:59:37,133 - INFO - - content_length_16966: 1
+2024-10-27 11:59:37,133 - INFO - - content_length_15123: 1
+2024-10-27 11:59:37,133 - INFO - - content_length_15099: 1
+2024-10-27 11:59:37,133 - INFO - - content_length_15290: 1
+2024-10-27 11:59:37,133 - INFO - - content_length_18215: 1
+2024-10-27 11:59:37,133 - INFO - - content_length_18008: 1
+2024-10-27 11:59:37,133 - INFO - - content_length_16975: 1
+2024-10-27 11:59:37,133 - INFO - - content_length_18909: 1
+2024-10-27 11:59:37,133 - INFO - - content_length_15178: 1
+2024-10-27 11:59:37,133 - INFO - - content_length_15855: 1
+2024-10-27 11:59:37,133 - INFO - - content_length_15363: 1
+2024-10-27 11:59:37,133 - INFO - - content_length_18132: 1
+2024-10-27 11:59:37,133 - INFO - - content_length_18549: 1
+2024-10-27 11:59:37,133 - INFO - - content_length_16944: 1
+2024-10-27 11:59:37,133 - INFO - - content_length_17705: 1
+2024-10-27 11:59:37,135 - INFO - - content_length_12: 1
+2024-10-27 11:59:37,135 - INFO - - content_length_18483: 1
+2024-10-27 11:59:37,135 - INFO - - content_length_15333: 1
+2024-10-27 11:59:37,135 - INFO - - content_length_17923: 1
+2024-10-27 11:59:37,135 - INFO - - content_length_15263: 1
+2024-10-27 11:59:37,135 - INFO - - content_length_15751: 1
+2024-10-27 11:59:37,135 - INFO - - content_length_16830: 1
+2024-10-27 11:59:37,135 - INFO - - content_length_15020: 1
+2024-10-27 11:59:37,135 - INFO - - content_length_16801: 1
+2024-10-27 11:59:37,135 - INFO - - content_length_17640: 1
+2024-10-27 11:59:37,135 - INFO - - content_length_15388: 1
+2024-10-27 11:59:37,135 - INFO - - content_length_18199: 1
+2024-10-27 11:59:37,135 - INFO - - content_length_19370: 1
+2024-10-27 11:59:37,135 - INFO - - content_length_16397: 1
+2024-10-27 11:59:37,135 - INFO - - content_length_15679: 1
+2024-10-27 11:59:37,135 - INFO - - content_length_15239: 1
+2024-10-27 11:59:37,135 - INFO - - content_length_15825: 1
+2024-10-27 11:59:37,135 - INFO - - content_length_15409: 1
+2024-10-27 11:59:37,135 - INFO - - content_length_16962: 1
+2024-10-27 11:59:37,135 - INFO - - content_length_17474: 1
+2024-10-27 11:59:37,135 - INFO - - content_length_16586: 1
+2024-10-27 11:59:37,135 - INFO - - content_length_18179: 1
+2024-10-27 11:59:37,135 - INFO - - content_length_15979: 1
+2024-10-27 11:59:37,135 - INFO - - content_length_17122: 1
+2024-10-27 11:59:37,135 - INFO - - content_length_16936: 1
+2024-10-27 11:59:37,135 - INFO - - content_length_16169: 1
+2024-10-27 11:59:37,135 - INFO - - content_length_15250: 1
+2024-10-27 11:59:37,135 - INFO - - content_length_17349: 1
+2024-10-27 11:59:37,135 - INFO - - content_length_16205: 1
+2024-10-27 11:59:37,135 - INFO - - content_length_16139: 1
+2024-10-27 11:59:37,135 - INFO - - content_length_18262: 1
+2024-10-27 11:59:37,135 - INFO - - content_length_17679: 1
+2024-10-27 11:59:37,135 - INFO - - content_length_16620: 1
+2024-10-27 11:59:37,136 - INFO - - content_length_15494: 1
+2024-10-27 11:59:37,136 - INFO - - content_length_16904: 1
+2024-10-27 11:59:37,136 - INFO - - content_length_15205: 1
+2024-10-27 11:59:37,136 - INFO - - content_length_15961: 1
+2024-10-27 11:59:37,136 - INFO - - content_length_10: 1
+2024-10-27 11:59:37,136 - INFO - - content_length_18822: 1
+2024-10-27 11:59:37,136 - INFO - - content_length_15198: 1
+2024-10-27 11:59:37,136 - INFO - - content_length_16231: 1
+2024-10-27 11:59:37,136 - INFO - - content_length_16643: 1
+2024-10-27 11:59:37,136 - INFO - - content_length_20729: 1
+2024-10-27 11:59:37,136 - INFO - - content_length_15571: 1
+2024-10-27 11:59:37,136 - INFO - - content_length_15325: 1
+2024-10-27 11:59:37,136 - INFO - - content_length_15173: 1
+2024-10-27 11:59:37,136 - INFO - - content_length_15245: 1
+2024-10-27 11:59:37,136 - INFO - - content_length_17374: 1
+2024-10-27 11:59:37,136 - INFO - - content_length_17435: 1
+2024-10-27 11:59:37,136 - INFO - - content_length_17241: 1
+2024-10-27 11:59:37,136 - INFO - - content_length_16861: 1
+2024-10-27 11:59:37,136 - INFO - - content_length_17285: 1
+2024-10-27 11:59:37,136 - INFO - - content_length_16308: 1
+2024-10-27 11:59:37,136 - INFO - - content_length_16241: 1
+2024-10-27 11:59:37,136 - INFO - - content_length_17350: 1
+2024-10-27 11:59:37,136 - INFO - - content_length_19158: 1
+2024-10-27 11:59:37,136 - INFO - - content_length_17674: 1
+2024-10-27 11:59:37,136 - INFO - - content_length_15704: 1
+2024-10-27 11:59:37,136 - INFO - - content_length_18404: 1
+2024-10-27 11:59:37,136 - INFO - - content_length_22040: 1
+2024-10-27 11:59:37,136 - INFO - - content_length_15034: 1
+2024-10-27 11:59:37,136 - INFO - - content_length_16717: 1
+2024-10-27 11:59:37,136 - INFO - - content_length_16222: 1
+2024-10-27 11:59:37,136 - INFO - - content_length_15507: 1
+2024-10-27 11:59:37,136 - INFO - - content_length_18184: 1
+2024-10-27 11:59:37,136 - INFO - - content_length_17753: 1
+2024-10-27 11:59:37,136 - INFO - - content_length_16411: 1
+2024-10-27 11:59:37,136 - INFO - - content_length_15738: 1
+2024-10-27 11:59:37,136 - INFO - - content_length_17566: 1
+2024-10-27 11:59:37,136 - INFO - - content_length_15352: 1
+2024-10-27 11:59:37,136 - INFO - - content_length_16611: 1
+2024-10-27 11:59:37,136 - INFO - - content_length_15133: 1
+2024-10-27 11:59:37,137 - INFO - - content_length_15690: 1
+2024-10-27 11:59:37,137 - INFO - - content_length_15910: 1
+2024-10-27 11:59:37,137 - INFO - - content_length_20417: 1
+2024-10-27 11:59:37,137 - INFO - - content_length_17277: 1
+2024-10-27 11:59:37,137 - INFO - 
+Validation Failure Categories:
+2024-10-27 11:59:37,137 - INFO - - structure: 0
+2024-10-27 11:59:37,137 - INFO - - content_length: 1788
+2024-10-27 11:59:37,137 - INFO - - token_count: 0
+2024-10-27 11:59:37,137 - INFO - - other: 0
+2024-10-27 11:59:37,137 - INFO - 
+Output saved to: C:\Users\Rakib\Documents\Ai Mentor\SourceFolder\OpenAi\Wikipedia_dumps\training_data\gpt4_training_data.jsonl

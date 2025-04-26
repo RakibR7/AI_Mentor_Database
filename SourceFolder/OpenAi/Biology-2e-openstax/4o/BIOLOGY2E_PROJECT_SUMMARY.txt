@@ -1,0 +1,70 @@
+BIOLOGY2E PROJECT SUMMARY
+=========================
+
+This file summarizes all work done in this project and provides guidance on how to use the key files.
+
+-------------------------
+1. OVERVIEW
+-------------------------
+We have taken the Biology 2e solution manual and textbook content and built a high-quality dataset of question-answer pairs for fine-tuning an AI model. The dataset was cleaned, matched, augmented, and verified for consistency and completeness.
+
+-------------------------
+2. MAIN FILES & PURPOSE
+-------------------------
+
+✅ Biology2e-Solution.txt / .pdf
+   - Source containing official answers from the solution manual.
+
+✅ Biology2e_cleaned.txt
+   - Extracted and cleaned questions from the textbook chapters.
+
+✅ question_matches.jsonl
+   - Initial matches of answers from the solution manual with textbook questions using multiple strategies.
+
+✅ question_matches_MANUAL_HANDLING.jsonl
+   - A manually reviewed and fixed version of the matches with chapter and question numbers.
+
+✅ postprocess_for_finetuning.py
+   - Script to clean, filter, and format the matched file for fine-tuning (removes short/incomplete answers and logs removed ones).
+
+✅ cleaned_for_finetuning.jsonl
+   - Output from postprocessing that only contains good entries.
+   - This is the main dataset prepared for model input.
+
+✅ fix_answers.py
+   - Python script that uses a local LLaMA 2 model (via Transformers) to improve and regenerate weak/incomplete answers.
+   - Final output: `cleaned_for_finetuning_FIXED.jsonl`
+
+✅ openai_finetune_ready.jsonl
+   - Final structured dataset formatted as OpenAI expects for fine-tuning:
+     - Prompts end with `\n\n###\n\n`
+     - Completions end with `###`
+
+✅ openai_finetune_ready_prepared.jsonl
+   - Prepared version (e.g. long samples removed, format validated) after running:
+     `openai tools fine_tunes.prepare_data -f openai_finetune_ready.jsonl`
+
+-------------------------
+3. HOW TO USE
+-------------------------
+
+➡️ To regenerate answers locally using LLaMA:
+   - Edit and run `fix_answers.py` after installing dependencies and downloading a quantized LLaMA 2 GGUF model.
+   - Final output: `cleaned_for_finetuning_FIXED.jsonl`
+
+➡️ To prepare the dataset for OpenAI fine-tuning:
+   1. Start with `cleaned_for_finetuning_FIXED.jsonl`
+   2. Run a formatter script to structure each entry with:
+      - Prompt: `question\n\n###\n\n`
+      - Completion: `answer ###`
+   3. Save as `openai_finetune_ready.jsonl`
+   4. Run OpenAI's CLI tool:
+      `openai tools fine_tunes.prepare_data -f openai_finetune_ready.jsonl`
+   5. Use the resulting `*_prepared.jsonl` file to fine-tune:
+      `openai api fine_tunes.create -t "openai_finetune_ready_prepared.jsonl"`
+
+-------------------------
+4. FINAL TIP
+-------------------------
+Always double-check your sample completions for sanity and coherence before training. Avoid garbage-in garbage-out!
+

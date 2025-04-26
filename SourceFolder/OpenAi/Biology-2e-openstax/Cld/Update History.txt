@@ -1,0 +1,51 @@
+
+# Extracting Questions and Answers from a Textbook
+
+Step 1: Parse the Textbook Structure
+1. Load the biology textbook text file
+2. Identify the document structure (chapters, sections, end-of-chapter material)
+3. Extract chapter boundaries to process each chapter separately
+
+Step 2: Locate Question Sections
+Most textbooks contain:
+- End-of-chapter review questions
+- Practice problems
+- Self-assessment questions
+- "Check Your Understanding" sections within chapters
+
+The script should:
+1. Search for patterns like "Review Questions", "Test Your Knowledge", or "Chapter Problems"
+2. Identify numbered or lettered question items
+3. Determine where questions end and answers or other content begins
+
+#Step 3: Extract Questions
+For each identified question section:
+1. Parse individual questions, maintaining their numbering
+2. Handle multi-part questions (a, b, c, etc.)
+3. Extract any accompanying figures or references
+4. Preserve question context (e.g., "Based on Figure 3.2...")
+
+Step 4: Find and Match Answers
+If the textbook has:
+- **Inline answers**: Extract them directly after each question
+- **End-of-chapter answers**: Match answer numbers/letters to questions
+- **Separate answer key/PDF**: Parse this file and align answers with questions
+- **No provided answers**: Flag these questions for manual answering
+
+Step 5: Process and Structure the Data
+1. Organize questions by chapter, section, and type
+2. Format as JSON with appropriate metadata
+3. Clean up text formatting issues
+4. Handle special characters, math formulas, or scientific notation
+
+Step 6: Quality Control
+1. Verify question-answer pairs are correctly matched
+2. Ensure no questions are missing answers
+3. Check for parsing errors or truncated content
+4. Validate the structure of complex questions
+
+#Implementation Notes
+- Regular expressions would be heavily used to identify question patterns
+- Special handling needed for numbered lists vs. question numbers
+- Distance-based matching algorithms might help pair questions with answers
+- OCR quality issues would need cleanup for PDF-sourced text

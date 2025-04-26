@@ -1,0 +1,10 @@
+2024-10-30 22:31:51,192 - INFO - Starting Wikipedia dump processing...
+2024-10-30 22:32:22,160 - INFO - 
+=== Processing Statistics ===
+2024-10-30 22:32:22,160 - INFO - Total files scanned: 18595
+2024-10-30 22:32:22,160 - INFO - Files with relevant content: 0
+2024-10-30 22:32:22,160 - INFO - Total articles found: 0
+2024-10-30 22:32:22,160 - INFO - Articles passed initial check: 0
+2024-10-30 22:32:22,160 - INFO - Articles added to dataset: 0
+2024-10-30 22:32:22,160 - INFO - Total tokens processed: 0
+2024-10-30 22:32:22,160 - INFO - =========================

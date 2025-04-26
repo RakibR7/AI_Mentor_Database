@@ -1,0 +1,52 @@
+2024-10-28 12:50:39,222 - INFO - Reading and categorizing data...
+2024-10-28 12:51:58,756 - INFO - Reading and categorizing data...
+2024-10-28 12:53:32,428 - INFO - 
+Initial distribution:
+2024-10-28 12:53:32,428 - INFO - computer_science: 25062 examples
+2024-10-28 12:53:32,428 - INFO - history: 8734 examples
+2024-10-28 12:53:32,429 - INFO - biology: 1542 examples
+2024-10-28 12:53:32,429 - INFO - physics: 1447 examples
+2024-10-28 12:53:32,429 - INFO - mathematics: 711 examples
+2024-10-28 12:53:32,429 - INFO - chemistry: 354 examples
+2024-10-28 12:53:32,429 - INFO - 
+Processing computer_science...
+2024-10-28 12:53:32,439 - INFO - 
+Processing history...
+2024-10-28 12:53:32,439 - INFO - 
+Processing biology...
+2024-10-28 12:53:32,439 - INFO - Creating 1958 new examples for biology
+2024-10-28 12:53:32,464 - INFO - 
+Processing physics...
+2024-10-28 12:53:32,465 - INFO - Creating 2053 new examples for physics
+2024-10-28 12:53:32,496 - INFO - 
+Processing mathematics...
+2024-10-28 12:53:32,496 - INFO - Creating 2789 new examples for mathematics
+2024-10-28 12:53:32,532 - INFO - 
+Processing chemistry...
+2024-10-28 12:53:32,532 - INFO - Creating 3146 new examples for chemistry
+2024-10-28 12:53:32,614 - INFO - 
+Created balanced dataset for computer_science:
+2024-10-28 12:53:32,614 - INFO - - File: training_data/balanced_subjects\computer_science_balanced.jsonl
+2024-10-28 12:53:32,614 - INFO - - Examples: 3500
+2024-10-28 12:53:32,658 - INFO - 
+Created balanced dataset for history:
+2024-10-28 12:53:32,658 - INFO - - File: training_data/balanced_subjects\history_balanced.jsonl
+2024-10-28 12:53:32,658 - INFO - - Examples: 3500
+2024-10-28 12:53:32,682 - INFO - 
+Created balanced dataset for biology:
+2024-10-28 12:53:32,682 - INFO - - File: training_data/balanced_subjects\biology_balanced.jsonl
+2024-10-28 12:53:32,682 - INFO - - Examples: 3500
+2024-10-28 12:53:32,709 - INFO - 
+Created balanced dataset for physics:
+2024-10-28 12:53:32,709 - INFO - - File: training_data/balanced_subjects\physics_balanced.jsonl
+2024-10-28 12:53:32,709 - INFO - - Examples: 3500
+2024-10-28 12:53:32,730 - INFO - 
+Created balanced dataset for mathematics:
+2024-10-28 12:53:32,730 - INFO - - File: training_data/balanced_subjects\mathematics_balanced.jsonl
+2024-10-28 12:53:32,730 - INFO - - Examples: 3500
+2024-10-28 12:53:32,752 - INFO - 
+Created balanced dataset for chemistry:
+2024-10-28 12:53:32,752 - INFO - - File: training_data/balanced_subjects\chemistry_balanced.jsonl
+2024-10-28 12:53:32,752 - INFO - - Examples: 3500
+2024-10-28 12:53:32,804 - INFO - 
+Balancing complete!

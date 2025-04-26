@@ -1,0 +1,22 @@
+Wikipedia_dumps/
+├── complete-methods-implementation.py
+├── dataset-analyzer.py
+├── dataset-guidelines.py
+├── folder-structure.py
+├── folder_structure.txt
+├── training-data-validator.py
+├── unified-dataset-validator.py
+├── Wiki_extracted_data/
+│   └── AA/
+├── training_data/
+│   ├── biology_training_data.jsonl
+│   ├── gpt4_training_data.jsonl
+│   ├── validated_training_data.jsonl
+│   ├── wiki_training_data.jsonl
+│   ├── Cost Redundacy/
+│   │   ├── balanced_science_30each.jsonl
+│   │   ├── optimized_data_100.jsonl
+│   │   ├── optimized_data_200.jsonl
+│   │   ├── optimized_data_50.jsonl
+│   │   ├── science_optimized_5dollars.jsonl
+│   │   └── science_optimized_5dollars_v2.jsonl

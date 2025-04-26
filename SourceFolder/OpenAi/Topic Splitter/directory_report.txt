@@ -1,0 +1,24 @@
+=== Directory Analysis Report ===
+
+General Statistics:
+Total Files: 18612
+Total Directories: 189
+
+File Types:
+No extension: 18595 files
+.jsonl: 10 files
+.py: 6 files
+.txt: 1 files
+
+Largest Files:
+83.37 MB - C:\Users\Rakib\Documents\Ai Mentor\SourceFolder\OpenAi\Wikipedia_dumps\training_data\wiki_training_data.jsonl
+74.25 MB - C:\Users\Rakib\Documents\Ai Mentor\SourceFolder\OpenAi\Wikipedia_dumps\training_data\validated_training_data.jsonl
+70.96 MB - C:\Users\Rakib\Documents\Ai Mentor\SourceFolder\OpenAi\Wikipedia_dumps\training_data\gpt4_training_data.jsonl
+27.47 MB - C:\Users\Rakib\Documents\Ai Mentor\SourceFolder\OpenAi\Wikipedia_dumps\training_data\Cost Redundacy\optimized_data_200.jsonl
+15.27 MB - C:\Users\Rakib\Documents\Ai Mentor\SourceFolder\OpenAi\Wikipedia_dumps\training_data\Cost Redundacy\optimized_data_100.jsonl
+7.64 MB - C:\Users\Rakib\Documents\Ai Mentor\SourceFolder\OpenAi\Wikipedia_dumps\training_data\Cost Redundacy\optimized_data_50.jsonl
+5.15 MB - C:\Users\Rakib\Documents\Ai Mentor\SourceFolder\OpenAi\Wikipedia_dumps\training_data\biology_training_data.jsonl
+1.00 MB - C:\Users\Rakib\Documents\Ai Mentor\SourceFolder\OpenAi\Wikipedia_dumps\Wiki_extracted_data\BL\wiki_59
+1.00 MB - C:\Users\Rakib\Documents\Ai Mentor\SourceFolder\OpenAi\Wikipedia_dumps\Wiki_extracted_data\BL\wiki_92
+1.00 MB - C:\Users\Rakib\Documents\Ai Mentor\SourceFolder\OpenAi\Wikipedia_dumps\Wiki_extracted_data\BZ\wiki_53
+

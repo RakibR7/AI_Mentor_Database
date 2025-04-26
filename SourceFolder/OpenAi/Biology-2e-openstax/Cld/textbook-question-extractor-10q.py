@@ -12,8 +12,6 @@ class TextbookQuestionExtractor:
         self.output_dir = Path(output_dir)
         self.model_name = model_name
         self.ollama_api = "http://localhost:11434/api/generate"
-        
-        # Create output directory if it doesn't exist
         os.makedirs(self.output_dir, exist_ok=True)
         
         print(f"Textbook: {self.textbook_path}")
@@ -33,11 +31,7 @@ class TextbookQuestionExtractor:
     def split_into_chapters(self, content):
         """Split the textbook content into chapters"""
         print("Splitting textbook into chapters...")
-        
-        # More precise pattern for chapter headings to reduce false positives
         chapter_pattern = r"(?:^|\n)CHAPTER\s+(\d+)(?:\s+[A-Z]|\s*\n)"
-        
-        # Find all chapter headings
         chapter_matches = list(re.finditer(chapter_pattern, content, re.IGNORECASE))
         
         chapters = []
@@ -64,43 +58,32 @@ class TextbookQuestionExtractor:
                     "title": chapter_title,
                     "content": chapter_content
                 })
-        
-        # If no chapters found with standard pattern, try alternative
+
         if not chapters:
             print("No standard chapter headings found. Looking for alternative patterns...")
-            
-            # Try alternative pattern (e.g., chapter headings in another format)
             alt_pattern = r"Chapter\s+(\d+)"
             chapter_matches = list(re.finditer(alt_pattern, content))
-            
-            # Extract each chapter
             for i in range(len(chapter_matches)):
                 start = chapter_matches[i].start()
                 end = chapter_matches[i+1].start() if i < len(chapter_matches) - 1 else len(content)
                 
                 chapter_content = content[start:end].strip()
                 chapter_title = chapter_matches[i].group(0).strip()
-                
-                # Extract chapter number
                 chapter_num_match = re.search(r"Chapter\s+(\d+)", chapter_title)
                 if chapter_num_match:
                     chapter_num = int(chapter_num_match.group(1))
                 else:
                     chapter_num = i + 1
-                
-                # Prevent duplicate chapter numbers
+
                 if not any(c["number"] == chapter_num for c in chapters):
                     chapters.append({
                         "number": chapter_num,
                         "title": chapter_title,
                         "content": chapter_content
                     })
-        
-        # If still no chapters, create artificial ones
+
         if not chapters:
             print("No chapter patterns matched. Creating artificial chapters based on content size.")
-            
-            # Split into roughly equal chunks (50,000 characters each)
             chunk_size = 50000
             total_chunks = (len(content) + chunk_size - 1) // chunk_size
             
@@ -115,11 +98,7 @@ class TextbookQuestionExtractor:
                     "title": f"Section {i + 1}",
                     "content": chapter_content
                 })
-        
-        # Sort chapters by number
         chapters.sort(key=lambda x: x["number"])
-        
-        # Deduplicate chapters with the same number
         unique_chapters = []
         seen_numbers = set()
         
@@ -132,29 +111,24 @@ class TextbookQuestionExtractor:
         return unique_chapters
     
     def chunk_chapter(self, chapter_text, max_length=4000):
-        """Split a chapter into manageable chunks for the model"""
-        # Split by paragraphs
         paragraphs = re.split(r'\n\s*\n', chapter_text)
         
         chunks = []
         current_chunk = ""
         
         for para in paragraphs:
-            # If adding this paragraph exceeds max length, start a new chunk
             if len(current_chunk) + len(para) > max_length and current_chunk:
                 chunks.append(current_chunk.strip())
                 current_chunk = para
             else:
                 current_chunk += "\n\n" + para if current_chunk else para
-        
-        # Add the last chunk if there's anything left
+
         if current_chunk:
             chunks.append(current_chunk.strip())
         
         return chunks
     
     def generate_questions_with_ollama(self, chunk, chapter_info, num_questions=10):
-        """Generate questions from text chunk using Ollama API"""
         prompt = f"""You are a biology tutor creating study questions from a textbook.
         
 Below is a section from Chapter {chapter_info['number']} of a biology textbook:
@@ -194,10 +168,7 @@ Your response should be in valid JSON format that can be parsed programmatically
             if response.status_code == 200:
                 result = response.json()
                 generated_text = result.get("response", "")
-                
-                # Try to parse as JSON
                 try:
-                    # Find JSON array in the response
                     json_match = re.search(r'\[\s*\{.*\}\s*\]', generated_text, re.DOTALL)
                     if json_match:
                         json_text = json_match.group(0)
@@ -219,22 +190,15 @@ Your response should be in valid JSON format that can be parsed programmatically
         return []
     
     def extract_questions(self):
-        """Main method to extract questions from the textbook"""
-        # Load the textbook
         content = self.load_textbook()
         if not content:
             return False
-        
-        # Print the first 200 characters to debug
+
         print(f"Textbook content starts with: {content[:200].replace(chr(10), ' ')}")
-        
-        # Split into chapters
         chapters = self.split_into_chapters(content)
         if not chapters:
             print("No chapters found in the textbook.")
             return False
-        
-        # Check if Ollama is available
         try:
             test_response = requests.get("http://localhost:11434/api/tags")
             if test_response.status_code != 200:
@@ -242,47 +206,32 @@ Your response should be in valid JSON format that can be parsed programmatically
         except Exception as e:
             print(f"Error: Could not connect to Ollama API. Make sure Ollama is running: {e}")
             return False
-            
-        # Process each chapter
         for chapter in chapters:
-            # Output file for this chapter
             output_file = self.output_dir / f"chapter_{chapter['number']}_qa.json"
-            
-            # Check if we should overwrite existing file
             if output_file.exists():
                 print(f"File exists for Chapter {chapter['number']}. Overwriting...")
-                # Delete existing file to ensure fresh content
                 output_file.unlink()
-            
-            # Chunk the chapter
             chunks = self.chunk_chapter(chapter['content'])
             print(f"Chapter {chapter['number']} split into {len(chunks)} chunks")
-            
-            # Process each chunk and collect Q&A pairs
             all_qa_pairs = []
-            
-            # Process multiple chunks if needed to reach 10 questions
-            chunks_to_process = min(2, len(chunks))  # Process up to 2 chunks
+
+            chunks_to_process = min(2, len(chunks))
             
             for i in range(chunks_to_process):
                 chunk = chunks[i]
                 print(f"Processing chunk {i+1}/{chunks_to_process} for Chapter {chapter['number']}")
-                
-                # Calculate how many questions to request from this chunk
+
                 questions_needed = 10 - len(all_qa_pairs)
                 if questions_needed <= 0:
                     break
                     
                 qa_pairs = self.generate_questions_with_ollama(chunk, chapter, questions_needed)
                 all_qa_pairs.extend(qa_pairs)
-                
-                # If we have at least 10 questions, stop processing chunks
+
                 if len(all_qa_pairs) >= 10:
-                    # Trim to exactly 10 questions if we have more
                     all_qa_pairs = all_qa_pairs[:10]
                     break
-            
-            # Save the results
+
             with open(output_file, 'w', encoding='utf-8') as f:
                 json.dump(all_qa_pairs, f, indent=2)
             
@@ -293,9 +242,7 @@ Your response should be in valid JSON format that can be parsed programmatically
 
 
 if __name__ == "__main__":
-    # Use the path format that works for you
     textbook_path = "input_textbook/biology_textbook.txt"
-    
-    # Initialize and run the extractor
+
     extractor = TextbookQuestionExtractor(textbook_path, model_name="llama2:13b")
     extractor.extract_questions()

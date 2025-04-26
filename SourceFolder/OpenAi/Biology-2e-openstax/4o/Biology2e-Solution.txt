@@ -1,0 +1,1048 @@
+STUDENT SOLUTION MANUAL
+Student Solution Manual
+Chapter 1
+1 Figure 1.6 1: C; 2: F; 3: A; 4: B; 5: D; 6: E. The original hypothesis is incorrect, as the coffeemaker works when
+plugged into the outlet. Alternative hypotheses include that the toaster might be broken or that the toaster wasn't turned
+on. 3 Figure 1.16 Communities exist within populations which exist within ecosystems. 4 B 6 D 8 C 10 C 12 B 14
+D 16 Answers will vary, but should apply the steps of the scientific method. One possibility could be a car which
+doesn’t start. The hypothesis could be that the car doesn’t start because the battery is dead. The experiment would be
+to change the battery or to charge the battery and then check whether the car starts or not. If it starts, the problem was
+due to the battery, and the hypothesis is accepted. 18 Answers will vary. Topics that fall inside the area of biological
+study include how diseases affect human bodies, how pollution impacts a species’ habitat, and how plants respond
+to their environments. Topics that fall outside of biology (the “study of life”) include how metamorphic rock is formed
+and how planetary orbits function. 20 Answers will vary. Layers of sedimentary rock have order but are not alive.
+Technology is capable of regulation but is not, of itself, alive. 22 During your walk, you may begin to perspire, which
+cools your body and helps your body to maintain a constant internal temperature. You might also become thirsty and
+pause long enough for a cool drink, which will help to restore the water lost during perspiration.
+Chapter 2
+1 Figure 2.3 Carbon-12 has six neutrons. Carbon-13 has seven neutrons. 3 Figure 2.24 C 4 A 6 C 8 D 10
+C 12 D 14 Ionic bonds are created between ions. The electrons are not shared between the atoms, but rather are
+associated more with one ion than the other. Ionic bonds are strong bonds, but are weaker than covalent bonds,
+meaning it takes less energy to break an ionic bond compared with a covalent one. 16 Buffers absorb the free
+hydrogen ions and hydroxide ions that result from chemical reactions. Because they can bond these ions, they
+prevent increases or decreases in pH. An example of a buffer system is the bicarbonate system in the human body.
+This system is able to absorb hydrogen and hydroxide ions to prevent changes in pH and keep cells functioning
+properly. 18 Carbon is unique and found in all living things because it can form up to four covalent bonds between
+atoms or molecules. These can be nonpolar or polar covalent bonds, and they allow for the formation of long chains of
+carbon molecules that combine to form proteins and DNA.
+Chapter 3
+1 Figure 3.5 Glucose and galactose are aldoses. Fructose is a ketose. 3 Figure 3.33 Adenine is larger than cytosine
+and will not be able to base pair properly with the guanine on the opposing strand. This will cause the DNA to bulge.
+DNA repair enzymes may recognize the bulge and replace the incorrect nucleotide. 4 C 6 A 8 D 10 B 12 D 14
+C 16 B 18 C 20 C 21 Biological macromolecules are organic because they contain carbon. 23 Amino acids can
+be linked into long chains through condensation reactions. One of the hydrogen atoms bonded to the nitrogen atom
+of an amino acid reacts with the –OH group attached to the terminal carbon on another amino acid. Since both ends
+of the molecule can participate in condensation reactions, peptide bonds can be made in both directions to create
+a long amino acid chain. 25 The β 1-4 glycosidic linkage in cellulose cannot be broken down by human digestive
+enzymes. Herbivores such as cows, koalas, and buffalos are able to digest grass that is rich in cellulose and use it as
+a food source because bacteria and protists in their digestive systems, especially in the rumen, secrete the enzyme
+cellulase. Cellulases can break down cellulose into glucose monomers that can be used as an energy source by
+the animal. 27 Fat serves as a valuable way for animals to store energy. It can also provide insulation. Waxes can
+protect plant leaves and mammalian fur from getting wet. Phospholipids and steroids are important components of
+animal cell membranes, as well as plant, fungal, and bacterial membranes. 29 Fats have a higher energy density
+than carbohydrates (averaging 9kcal/gram versus 4.3kcal/gram respectively). Thus, on a per gram basis, more energy
+can be stored in fats than can be stored in carbohydrates. Additionally, fats are packaged into spherical globules
+to minimize interactions with the water-based plasma membrane, while glycogen is a large branched carbohydrate
+that cannot be compacted for storage. 31 A change in gene sequence can lead to a different amino acid being
+added to a polypeptide chain instead of the normal one. This causes a change in protein structure and function.
+For example, in sickle cell anemia, the hemoglobin β chain has a single amino acid substitution—the amino acid
+glutamic acid in position six is substituted by valine. Because of this change, hemoglobin molecules form aggregates,
+and the disc-shaped red blood cells assume a crescent shape, which results in serious health problems. 33 The
+protein must form a channel in the plasma membrane that allows water into the cell since water cannot cross the
+plasma membrane by itself. Since aquaporins are embedded in the plasma membrane and connect with both the
+intracellular and extracellular spaces, it must be amphipathic like the plasma membrane. The top and bottom of the
+protein must contain charged or polar amino acids (hydrophilic) to interact with the aqueous environments. The exterior
+transmembrane region must contain non-polar amino acids (hydrophobic) that can interact with the phospholipid tails.
+However, the inside of this channel must contain hydrophilic amino acids since they will interact with the traveling water
+molecules.  35 The four types of RNA are messenger RNA, ribosomal RNA, transfer RNA, and microRNA. Messenger
+RNA carries the information from the DNA that controls all cellular activities. The mRNA binds to the ribosomes that are
+constructed of proteins and rRNA, and tRNA transfers the correct amino acid to the site of protein synthesis. microRNA
+regulates the availability of mRNA for translation.
+Chapter 4
+1 Figure 4.7 Substances can diffuse more quickly through small cells. Small cells have no need for organelles and
+therefore do not need to expend energy getting substances across organelle membranes. Large cells have organelles
+that can separate cellular processes, enabling them to build molecules that are more complex.  3 Figure 4.18 It would
+end up on the outside. After the vesicle passes through the Golgi apparatus and fuses with the plasma membrane, it
+turns inside out.  4 C  6 D  8 D  10 B  12 D  14 A  16 C  18 D  20 D  22 C  24 D  25 A light microscope would be ideal
+when viewing a small living organism, especially when the cell has been stained to reveal details.  27 A transmission
+electron microscope would be ideal for viewing the cell’s internal structures, because many of the internal structures
+have  membranes  that  are  not  visible  by  the  light  microscope.  29  The  cell  theory  states:
+All  living  things  are
+made  of  cells.;Cells  are  the  most  basic  unit  of  life.;New  cells  arise  from  existing  cells.  All  humans  are  multicellular
+organisms whose smallest building blocks are cells. Adult humans begin with the fusion of a male gamete cell with
+a  female  gamete  cell  to  form  a  fertilized  egg  (single  cell).  That  cell  then  divides  into  two  cells,  which  each  divides
+into two more cells, and so forth until all the cells of a human embryo are made. As the embryo passes through all
+the developmental stages to make an adult human, the cells that are added arise from division of existing cells.  31
+Some  microbes  are  beneficial.  For  instance,  E.  coli  bacteria  populate  the  human  gut  and  help  break  down  fiber  in
+the  diet.  Some  foods  such  as  yogurt  are  formed  by  bacteria.  33  Both  are  similar  in  that  they  are  enveloped  in  a
+double membrane, both have an intermembrane space, and both make ATP. Both mitochondria and chloroplasts have
+DNA, and mitochondria have inner folds called cristae and a matrix, while chloroplasts have chlorophyll and accessory
+pigments in the thylakoids that form stacks (grana) and a stroma.  35 “Form follows function” refers to the idea that the
+function of a body part dictates the form of that body part. As an example, compare your arm to a bat’s wing. While
+the bones of the two correspond, the parts serve different functions in each organism and their forms have adapted
+to follow that function.  37 Centrioles and flagella are alike in that they are made up of microtubules. In centrioles, two
+rings of nine microtubule “triplets” are arranged at right angles to one another. This arrangement does not occur in
+flagella.  39 A macrophage engulfs a pathogen by rearranging its actin microfilaments to bend the plasma membrane
+around  the  pathogen.  Once  the  pathogen  is  sealed  in  an  endosome  inside  the  macrophage,  the  vesicle  is  walked
+along microtubules until it combines with a lysosome to digest the pathogen.  41 They differ because plant cell walls
+are rigid. Plasmodesmata, which a plant cell needs for transportation and communication, are able to allow movement
+of really large molecules. Gap junctions are necessary in animal cells for transportation and communication.  43 E. coli
+infections generally cause food poisoning, meaning that the invading bacteria cross from the lumen of the gut into the
+rest of the body. Tight junctions hold the epithelial layer that lines the digestive tract together so that the material that
+crosses into the body is tightly regulated. One way E. coli can avoid this regulation is to destroy the tight junctions so
+that it can enter the body between the epithelial cells, rather than having to go through the cells.
+Chapter 5
+1 Figure 5.12 No, it must have been hypotonic as a hypotonic solution would cause water to enter the cells, thereby
+making them burst.  3 Figure 5.19 A decrease in pH means an increase in positively charged H+ ions, and an increase
+in the electrical gradient across the membrane. The transport of amino acids into the cell will increase.  4 A  6 A  8
+C  10 A  12 D  14 D  16 B  18 C  20 B  21 The fluid characteristic of the cell membrane allows greater flexibility to
+the  cell  than  it  would  if  the  membrane  were  rigid.  It  also  allows  the  motion  of  membrane  components,  required  for
+some  types  of  membrane  transport.  23  Peripheral  proteins  can  bind  to  other  molecules  in  the  extracellular  space.
+However, they cannot directly transmit a signal to the inside of the cell since they do not have a transmembrane domain
+(region that goes through the plasma membrane to the inside of the cell). They must associate with integral membrane
+proteins in order to pass the signal to the inside of the cell.  25 Water moves through a membrane in osmosis because
+there is a concentration gradient across the membrane of solute and solvent. The solute cannot effectively move to
+balance the concentration on both sides of the membrane, so water moves to achieve this balance.  27 Decreasing
+temperature will decrease the kinetic energy in the system. A lower temperature means less energy in the molecules,
+so  they  will  move  at  a  slower  speed.  Lowering  temperature  also  decreases  the  kinetic  energy  of  the  molecules  in
+the plasma membrane, compressing them together. This increases the density of the plasma membrane, which slows
+diffusion into the cell.  29 The cell harvests energy from ATP produced by its own metabolism to power active transport
+processes, such as the activity of pumps.  31 Intestinal epithelial cells use active transport to fulfill their specific role as
+the cells that transfer glucose from the digested food to the bloodstream. Intestinal cells are exposed to an environment
+with fluctuating glucose levels. Immediately after eating, glucose in the gut lumen will be high, and could accumulate
+in intestinal cells by diffusion. However, when the gut lumen is empty, glucose levels are higher in the intestinal cells. If
+glucose moved by facilitated diffusion, this would cause glucose to flow back out of the intestinal cells and into the gut.
+Active transport proteins ensure that glucose moves into the intestinal cells, and cannot move back into the gut. It also
+ensures that glucose transport continues to occur even if high levels of glucose are already present in the intestinal
+cells. This maximizes the amount of energy the body can harvest from food. 33 The proteins allow a cell to select
+what compound will be transported, meeting the needs of the cell and not bringing in anything else.
+Chapter 6
+1 Figure 6.8 A compost pile decomposing is an exergonic process; enthalpy increases (energy is released) and
+entropy increases (large molecules are broken down into smaller ones). A baby developing from a fertilized egg is
+an endergonic process; enthalpy decreases (energy is absorbed) and entropy decreases. Sand art being destroyed
+is an exergonic process; there is no change in enthalpy, but entropy increases. A ball rolling downhill is an exergonic
+process; enthalpy decreases (energy is released), but there is no change in entropy. 3 Figure 6.14 Three sodium ions
+could be moved by the hydrolysis of one ATP molecule. The ∆G of the coupled reaction must be negative. Movement
+of three sodium ions across the membrane will take 6.3 kcal of energy (2.1 kcal × 3 Na+ ions = 6.3 kcal). Hydrolysis of
+ATP provides 7.3 kcal of energy, more than enough to power this reaction. Movement of four sodium ions across the
+membrane, however, would require 8.4 kcal of energy, more than one ATP molecule can provide. 4 C 6 C 8 B 10
+A 12 A 14 C 16 Physical exercise involves both anabolic and catabolic processes. Body cells break down sugars
+to provide ATP to do the work necessary for exercise, such as muscle contractions. This is catabolism. Muscle cells
+also must repair muscle tissue damaged by exercise by building new muscle. This is anabolism. 18 A spontaneous
+reaction is one that has a negative ∆G and thus releases energy. However, a spontaneous reaction need not occur
+quickly or suddenly like an instantaneous reaction. It may occur over long periods due to a large energy of activation,
+which prevents the reaction from occurring quickly. 20 The ant farm had lower entropy before the earthquake because
+it was a highly ordered system. After the earthquake, the system became much more disordered and had higher
+entropy. 22 The activation energy for hydrolysis is very low. Not only is ATP hydrolysis an exergonic process with a
+large −∆G, but ATP is also a very unstable molecule that rapidly breaks down into ADP + Pi if not utilized quickly. This
+suggests a very low EA since it hydrolyzes so quickly. 24 Feedback inhibition allows cells to control the amounts of
+metabolic products produced. If there is too much of a particular product relative to the cell’s needs, feedback inhibition
+effectively causes the cell to decrease production of that particular product. In general, this reduces the production of
+superfluous products and conserves energy, maximizing energy efficiency.
+Chapter 7
+1 Figure 7.11 After DNP poisoning, the electron transport chain can no longer form a proton gradient, and ATP
+synthase can no longer make ATP. DNP is an effective diet drug because it uncouples ATP synthesis; in other words,
+after taking it, a person obtains less energy out of the food he or she eats. Interestingly, one of the worst side effects of
+this drug is hyperthermia, or overheating of the body. Since ATP cannot be formed, the energy from electron transport
+is lost as heat. 3 Figure 7.14 The illness is caused by lactate accumulation. Lactate levels rise after exercise, making
+the symptoms worse. Milk sickness is rare today but was common in the midwestern United States in the early
+1800s. 4 A 6 C 8 B 10 C 12 C 14 A 16 A 18 ATP provides the cell with a way to handle energy in an efficient
+manner. The molecule can be charged, stored, and used as needed. Moreover, the energy from hydrolyzing ATP
+is delivered as a consistent amount. Harvesting energy from the bonds of several different compounds would result
+in energy deliveries of different quantities. 20 All cells must consume energy to carry out basic functions, such as
+pumping ions across membranes. A red blood cell would lose its membrane potential if glycolysis were blocked, and
+it would eventually die. 22 Q and cytochrome c are transport molecules. Their function does not result directly in ATP
+synthesis in that they are not pumps. Moreover, Q is the only component of the electron transport chain that is not
+a protein. Ubiquinone and cytochrome c are small, mobile electron carriers, whereas the other components of the
+electron transport chain are large complexes anchored in the inner mitochondrial membrane. 24 Fermentation uses
+glycolysis only. Anaerobic respiration uses all three parts of cellular respiration, including the parts in the mitochondria
+like the citric acid cycle and electron transport; it also uses a different final electron acceptor instead of oxygen gas. 26
+Citrate can inhibit phosphofructokinase by feedback regulation.
+Chapter 8
+1 Figure 8.6 Levels of carbon dioxide (a necessary photosynthetic substrate) will immediately fall. As a result, the rate
+of photosynthesis will be inhibited. 3 Figure 8.18 D 4 A 6 B 8 B 10 A 12 C 14 A 16 D 18 C 20 C 21 The
+outcome of light reactions in photosynthesis is the conversion of solar energy into chemical energy that the chloroplasts
+can use to do work (mostly anabolic production of carbohydrates from carbon dioxide). 23 The energy carriers that
+move from the light-dependent reaction to the light-independent one are “full” because they bring energy. After the
+energy is released, the “empty” energy carriers return to the light-dependent reaction to obtain more energy. There
+is not much actual movement involved. Both ATP and NADPH are produced in the stroma where they are also used
+and reconverted into ADP, Pi, and NADP+. 25 The stomata regulate the exchange of gases and water vapor between
+a leaf and its surrounding environment. When the stomata are closed, the water molecules cannot escape the leaf,
+but the leaf also cannot acquire new carbon dioxide molecules from the environment. This limits the light-independent
+reactions to only continuing until the carbon dioxide stores in the leaf are depleted.  27 Both of these molecules carry
+energy; in the case of NADPH, it has reducing power that is used to fuel the process of making carbohydrate molecules
+in light-independent reactions.  29 Because RuBP, the molecule needed at the start of the cycle, is regenerated from
+G3P.  31 Because G3P has three carbon atoms, and each turn of the cycle takes in one carbon atom in the form of
+carbon dioxide.  33 In the defined ecosystem, energy would radiate from the Sun, and be absorbed by the chlorophyll
+in the leaves of the tree. Photosynthesis would occur in the leaves, transforming the light energy into stored chemical
+energy in the covalent bonds of carbon molecules. The giraffe would eat the leaves of the tree, and digest the carbon
+molecules  to  release  energy.  In  the  same  ecosystem,  nutrients  would  cycle  between  the  tree  and  the  giraffe.  The
+giraffe would consume oxygen and release carbon dioxide as its cells perform aerobic respiration to create chemical
+energy. The tree will consume the released carbon dioxide during photosynthesis to create its own stored chemical
+energy, and release oxygen as a by-product.
+Chapter 9
+1 Figure 9.8  C.  The  downstream  cellular  response  would  be  inhibited.  3 Figure 9.17  C.  5  B  7  B  9  C  11  C  13
+B  15 B  17 C  19 D  21 D  23 Intracellular signaling occurs within a cell, and intercellular signaling occurs between
+cells.  25 Internal receptors are located inside the cell, and their ligands enter the cell to bind the receptor. The complex
+formed by the internal receptor and the ligand then enters the nucleus and directly affects protein production by binding
+to the chromosomal DNA and initiating the making of mRNA that codes for proteins. Cell-surface receptors, however,
+are embedded in the plasma membrane, and their ligands do not enter the cell. Binding of the ligand to the cell-surface
+receptor  initiates  a  cell  signaling  cascade  and  does  not  directly  influence  the  making  of  proteins;  however,  it  may
+involve the activation of intracellular proteins.  27 Insulin’s receptor is an enzyme-linked transmembrane receptor, as
+can be determined from the “tyrosine kinase” in its name. This receptor is embedded in the plasma membrane, and
+insulin binds to its extracellular (outer) surface to initiate intracellular signaling cascades. Normally, steroid hormones
+cross the plasma membrane to bind with intracellular receptors. These intracellular hormone-receptor complexes then
+interact directly with DNA to regulate transcription. This limits steroid hormones to be small, non-polar molecules so
+they can cross the plasma membrane. However, since insulin does not have to cross into the cell it could be large
+or  polar  (it  is  a  small,  polar  molecule).  29  The  binding  of  the  ligand  to  the  extracellular  domain  would  activate  the
+pathway normally activated by the receptor donating the intracellular domain.  31 If a kinase is mutated so that it is
+always activated, it will continuously signal through the pathway and lead to uncontrolled growth and possibly cancer.
+If a kinase is mutated so that it cannot function, the cell will not respond to ligand binding.  33 Possible explanations:
+EGFR  dimer  cannot  separate.An  upstream  mutation  (in  Ras,  Raf,  MEK)  constitutively  activates  the  signaling
+cascade.ERK has a mutation that prevents it from binding to its phosphatase.The cell has a mutation preventing the
+expression or function of the ERK-specific phosphatase.  35 Multicellular organisms must coordinate many different
+events in different cell types that may be very distant from each other. Single-celled organisms are only concerned with
+their immediate environment and the presence of other cells in the area.
+Chapter 10
+the
+therefore  prevent
+1  Figure  10.14  Rb  and  other  negative  regulatory  proteins  control  cell  division  and
+formation  of  tumors.  Mutations  that  prevent  these  proteins  from  carrying  out  their  function  can  result  in
+cancer.  3  D. E6 binding marks p53 for degradation.  4 B  6 D  8 D  10 B  12 C  14 A  16 A  18 D  20 C  22 C  24 D
+26 C  28 Human somatic cells have 46 chromosomes: 22 pairs and 2 sex chromosomes that may or may not form a
+pair.  This  is  the  2n  or  diploid  condition.  Human  gametes  have  23  chromosomes,  one  each  of  23  unique
+chromosomes, one of which is a sex chromosome. This is the n or haploid condition.  30 The DNA double helix is
+wrapped  around  histone  proteins  to  form  structures  called  nucleosomes.  Nucleosomes  and  the  linker  DNA  in
+between  them  are  coiled  into  a  30-nm  fiber.  During  cell  division,  chromatin  is  further  condensed  by  packing
+proteins.  32  The  mitotic  spindle  is  formed  of  microtubules.  Microtubules  are  polymers  of  the  protein  tubulin;
+therefore,  it  is  the  mitotic  spindle  that  is  disrupted  by  these  drugs.  Without  a  functional  mitotic  spindle,  the
+chromosomes will not be sorted or separated during mitosis.  The  cell  will  arrest  in  mitosis  and  die.  34  Many  cells
+temporarily  enter  G0  until  they  reach  maturity.  Some  cells  are  only  triggered  to  enter  G1  when  the  organism
+needs  to  increase  that  particular  cell  type.  Some  cells  only reproduce following an injury to the tissue. Some cells
+never  divide  once  they  reach  maturity.  36  The  G1  checkpoint  monitors  adequate  cell  growth,  the  state  of  the
+genomic  DNA,  adequate  stores  of  energy,  and  materials  for  S  phase.  At  the  G2  checkpoint,  DNA  is  checked  to
+ensure that all chromosomes were duplicated and that there are no mistakes in newly synthesized DNA. Additionally,
+cell  size  and  energy  reserves  are  evaluated.  The  M  checkpoint  confirms  the  correct  attachment  of  the  mitotic
+spindle  fibers  to  the  kinetochores.  38  Cdk  must  bind  to  a  cyclin,  and  it  must  be  phosphorylated  in  the  correct
+position  to  become  fully  active.  40  If  one  of  the  genes  that  produces  regulator  proteins  becomes  mutated,  it
+produces a malformed,  possibly non-functional,  cell-cycle regulator, increasing the chance that more mutations will
+be left unrepaired in the cell. Each subsequent generation of cells sustains more damage. The cell cycle can speed
+up  as  a  result  of  the  loss  of  functional  checkpoint  proteins.  The  cells  can  lose  the  ability  to  self-destruct  and
+eventually become “immortalized.”  42 Regulatory mechanisms that might be lost include monitoring of the quality
+of  the  genomic  DNA,  recruiting  of  repair  enzymes,  and  the  triggering  of  apoptosis.  44  The  common  components  of
+eukaryotic  cell  division  and  binary  fission  are  DNA  duplication,  segregation  of  duplicated  chromosomes,  and  division
+of the cytoplasmic contents.
+Chapter 11
+1 Figure 11.9 Yes, it will be able to reproduce asexually.  2 C  4 D  6 A  8 C  10 B  12 D  14 D  16 A  18 C  19 During
+the  meiotic  interphase,  each  chromosome  is  duplicated.  The  sister  chromatids  that  are  formed  during  synthesis  are
+held  together  at  the  centromere  region  by  cohesin  proteins.  All  chromosomes  are  attached  to  the  nuclear  envelope
+by  their  tips.  As  the  cell  enters  prophase  I,  the  nuclear  envelope  begins  to  fragment  and  the  proteins  holding
+homologous chromosomes locate each other. The four sister chromatids align lengthwise, and a protein lattice called
+the  synaptonemal  complex  is  formed  between  them  to  bind  them  together.  The  synaptonemal  complex  facilitates
+crossover  between  nonsister  chromatids,  which  is  observed  as  chiasmata  along  the  length  of  the  chromosome.  As
+prophase I progresses, the synaptonemal complex breaks down and the sister chromatids become free, except where
+they  are  attached  by  chiasmata.  At  this  stage,  the  four  chromatids  are  visible  in  each  homologous  pairing  and  are
+called a tetrad.  21 In metaphase I, the homologous chromosomes line up at the metaphase plate. In anaphase I, the
+homologous  chromosomes  are  pulled  apart  and  move  to  opposite  poles.  Sister  chromatids  are  not  separated  until
+meiosis  II.  The  fused  kinetochore  formed  during  meiosis  I  ensures  that  each  spindle  microtubule  that  binds  to  the
+tetrad will attach to both sister chromatids.  23 The chromosomes of the individual cannot cross over during meiosis if
+the individual cannot make recombination nodules. This limits the genetic diversity of the individual’s gametes to what
+occurs  during  independent  assortment,  with  all  daughter  cells  receiving  complete  maternal  or  paternal  chromatids.
+An  individual  who  cannot  produce  diverse  offspring  is  considered  less  fit  than  individuals  who  do  produce  diverse
+offspring.  25  a.  Crossover  occurs  in  prophase  I  between  nonsister  homologous  chromosomes.  Segments  of  DNA
+are  exchanged  between  maternally  derived  and  paternally  derived  chromosomes,  and  new  gene  combinations  are
+formed.  b.  Random  alignment  during  metaphase  I  leads  to  gametes  that  have  a  mixture  of  maternal  and  paternal
+chromosomes.  c.  Fertilization  is  random,  in  that  any  two  gametes  can  fuse.  27  Sexual  reproduction  increases  the
+genetic  variation  within  the  population,  because  new  individuals  are  made  by  randomly  combining  genetic  material
+from two parents. Because only fit individuals reach sexual maturity and reproduce, the overall population tends toward
+increasing fitness in its environment. However, there is always a possibility that the random combination creating the
+offspring’s  genome  will  actually  produce  an  organism  less  fit  for  the  environment  than  its  parents  were.  29  Haploid-
+dominant  organisms  undergo  sexual  reproduction  by  making  a  diploid  zygote.  The  cells  that  make  the  gametes  are
+derived from haploid cells, but the + and – mating types that produce the zygote are randomly combined. The zygote
+also  undergoes  meiosis  to  return  to  the  haploid  stage,  so  multiple  steps  add  genetic  diversity  to  haploid-dominant
+organisms.
+Chapter 12
+1 Figure 12.5 You cannot be sure if the plant is homozygous or heterozygous as the data set is too small: by random
+chance, all three plants might have acquired only the dominant gene even if the recessive one is present. If the round
+pea  parent  is  heterozygous,  there  is  a  one-eighth  probability  that  a  random  sample  of  three  progeny  peas  will  all  be
+round.  3  Figure 12.12  Half  of  the  female  offspring  would  be  heterozygous  (XWXw)  with  red  eyes,  and  half  would  be
+homozygous recessive (XwXw) with white eyes. Half of the male offspring would be hemizygous dominant (XWY) withe
+red yes, and half would be hemizygous recessive (XwY) with white eyes.  5 A  7 B  9 C  11 C  13 D  15 D  17 A  19
+D  21 D  22 The garden pea is sessile and has flowers that close tightly during self-pollination. These features help to
+prevent  accidental  or  unintentional  fertilizations  that  could  have  diminished  the  accuracy  of  Mendel’s  data.  24  Since
+we  are  calculating  the  probability  of  two  independent  events  occurring  simultaneously,  we  use  the  product  rule.  F1
+generation: Since green seed color is recessive, there is a 0% probability that any plants in the F1 generation will have
+green, round seeds. F2 generation: The probability of growing an F2 generation plant with green seeds is ¼, while the
+probability of growing an F2 generation plant with round seeds is ¾. We can use the product rule to then calculate the
+probability  of  a  plant  with  green,  round  seeds:  1 /  4×3 /  4 = 3 /  16  26  Because  axial  is  dominant,  the  gene(12.3)
+would be designated as A. F1 would be all heterozygous Aa with axial phenotype. F2 would have possible genotypes of
+AA, Aa, and aa; these would correspond to axial, axial, and terminal phenotypes, respectively.  28 No, males can only
+express  color  blindness.  They  cannot  carry  it  because  an  individual  needs  two  X  chromosomes  to  be  a  carrier.  30
+Considering  each  gene  separately,  the  cross  at  A  will  produce  offspring  of  which  half  are  AA  and  half  are  Aa;  B  will
+produce all Bb; C will produce half Cc and half cc. Proportions then are (1/2) × (1) × (1/2), or 1/4 AABbCc; continuing for
+the other possibilities yields 1/4 AABbcc, 1/4 AaBbCc, and 1/4 AaBbcc. The proportions therefore are 1:1:1:1.  32 The
+cross can be represented as a 4 × 4 Punnett square, with the following gametes for each parent: WY, Wy, wY, and wy.
+For  all  12  of  the  offspring  that  express  a  dominant  W  gene,  the  offspring  will  be  white.  The  three  offspring  that  are
+homozygous  recessive  for  w  but  express  a  dominant  Y  gene  will  be  yellow.  The  remaining  wwyy  offspring  will  be
+green.  34 Mendelian inheritance would predict that all three genes are inherited independently. There are therefore 8
+different  gamete  genotype  possibilities:  VYR,  VYr,  VyR,  Vyr,  vYR,  vYr,  vyR,  vyr.  If  all  three  genes  are  found  on  the
+same chromosome arm, independent assortment is unlikely to occur because the genes are close together (linked).
+Chapter 13
+1 Figure 13.3 No. The predicted frequency of recombinant offspring ranges from 0% (for linked traits) to 50% (for
+unlinked traits). 3 Figure 13.6 B. 4 A 6 C 8 B 10 C 12 D 14 The Chromosomal Theory of Inheritance proposed
+that genes reside on chromosomes. The understanding that chromosomes are linear arrays of genes explained
+linkage, and crossing over explained recombination.
+Chapter 14
+1 Figure 14.10 Compartmentalization enables a eukaryotic cell to divide processes into discrete steps so it can build
+more complex protein and RNA products. But there is an advantage to having a single compartment as well: RNA
+and protein synthesis occurs much more quickly in a prokaryotic cell. 3 Figure 14.21 If three nucleotides are added,
+one additional amino acid will be incorporated into the protein chain, but the reading frame wont shift. 4 C 6 D 8
+D 10 C 12 D 14 A 16 D 18 C 20 B 21 Live R cells acquired genetic information from the heat-killed S cells that
+“transformed” the R cells into S cells. 23 If the tetranucleotide hypothesis were true, then DNA would have to contain
+equal amounts of all four nucleotides (A=T=G=C). However, Chargaff demonstrated that A=T and G=C, but that the
+four nucleotides are not present in equal amounts. 25 DNA has two strands in anti-parallel orientation. The sugar-
+phosphate linkages form a backbone on the outside, and the bases are paired on the inside: A with T, and G with
+C, like rungs on a spiral ladder. 27 Meselson’s experiments with E. coli grown in 15N deduced this finding. 29 At
+an origin of replication, two replication forks are formed that are extended in two directions. On the lagging strand,
+Okazaki fragments are formed in a discontinuous manner. 31 1333 seconds or 22.2 minutes. 33 Primer provides a
+3'-OH group for DNA pol to start adding nucleotides. There would be no reaction in the tube without a primer, and no
+bands would be visible on the electrophoresis. 35 Telomerase has an inbuilt RNA template that extends the 3' end, so
+primer is synthesized and extended. Thus, the ends are protected. 37 This is a frameshift mutation with a deletion of
+an “A” in the 12th position of the coding region.
+Patient: ATGGGGATATGGCATNormal: ATGGGGATATGAGCAT
+Chapter 15
+1 Figure 15.11 No. Prokaryotes use different promoters than eukaryotes. 3 Figure 15.16 Tetracycline: a;
+Chloramphenicol: c. 4 D 6 C 8 B 10 B 12 B 14 A 16 C 18 A 19 For 200 commonly occurring amino acids,
+codons consisting of four types of nucleotides would have to be at least four nucleotides long, because 44 = 256. There
+would be much less degeneracy in this case. 21 Met Cys Arg Asn Ser Arg The first step to writing the amino acid
+sequence is to find the start codon AUG. Then, the nucleotide sequence is separated into triplets: CU AUG UGU CGU
+AAC AGC CGA UGA. We stop the translation at UGA because that triplet encodes a stop codon. When we convert
+these codons to amino acids, the sequence becomes Met Cys Arg Asn Ser Arg. 23 Rho-dependent termination is
+controlled by the rho protein, which tracks along behind the polymerase on the growing mRNA chain. Near the end
+of the gene, the polymerase stalls at a run of G nucleotides on the DNA template. The rho protein collides with the
+polymerase and releases mRNA from the transcription bubble. Rho-independent termination is controlled by specific
+sequences in the DNA template strand. As the polymerase nears the end of the gene being transcribed, it encounters
+a region rich in C–G nucleotides. This creates an mRNA hairpin that causes the polymerase to stall right as it begins
+to transcribe a region rich in A–T nucleotides. Because A–U bonds are less thermostable, the core enzyme falls
+away. 25 To determine that a RNA polymerase I mutation or deficiency is causing the defect in protein production,
+the scientist would need to make observations that provide evidence that RNA polymerases II and III are working in
+the cell. The observations eliminating RNA polymerase II as the defect could include:
+Transcription of mRNAs
+in the nucleus;Presence of processed mRNAs in the cytoplasm The observations eliminating RNA polymerase III
+could include:
+Isolation of small nuclear RNAs from the cell;Isolation of microRNAs from the cell;Transcription of
+5S rRNA in the nucleus;Presence of tRNAs in the cytoplasm The observations implicating RNA polymerase I could
+include:
+A lack of functional ribosomes in the cytoplasm (RNA polymerase I or III);A lack of RNA polymerase
+I  protein;RNA  polymerase  I  protein  is  non-functional  27  The  mRNA  would  be:  5'-AUGGCCGGUUAUUAAGCA-3'.
+The protein would be: MAGY. Even though there are six codons, the fifth codon corresponds to a stop, so the sixth
+codon would not be translated.  29 Original mRNA: 5’ –UGCC AUG GUA AUA ACA CAU GAG GCC UGA AC– 3’;
+Translation:  Met  –  Val  –  Ile  –  Thr  –  His  –  Glu  –  Ala;  Mutated  mRNA:  5’  –UGCC  AUG  GUU  AAU  AAC  ACA  UGA
+GGCCUGAAC– 3’; Translation: Met – Val – Asn – Asn – Thr; Insertion mutations can have dramatic effects on proteins
+because they shift the reading frame for the codons. This changes the amino acids encoded by the mRNA, and can
+introduce premature start or stop sites.
+Chapter 16
+1  Figure 16.5  Tryptophan  is  an  amino  acid  essential  for  making  proteins,  so  the  cell  always  needs  to  have  some
+on  hand.  However,  if  plenty  of  tryptophan  is  present,  it  is  wasteful  to  make  more,  and  the  expression  of  the  trp
+receptor is repressed. Lactose, a sugar found in milk, is not always available. It makes no sense to make the
+enzymes necessary to digest an energy source that is not available, so the lac operon is only turned on when
+lactose is present. 3 Figure 16.13 Protein synthesis would be inhibited. 4 D 6 D 8 D 10 A 12 C 14 B 16
+D 18 C 20 B 22 C 23 Eukaryotic cells have a nucleus, whereas prokaryotic cells do not. In eukaryotic cells,
+DNA is confined within the nuclear region. Because of this, transcription and translation are physically separated.
+This creates a more complex mechanism for the control of gene expression that benefits multicellular organisms
+because it compartmentalizes gene regulation. Gene expression occurs at many stages in eukaryotic cells, whereas
+in prokaryotic cells, control of gene expression only occurs at the transcriptional level. This allows for greater control
+of gene expression in eukaryotes and more complex systems to be developed. Because of this, different cell types
+can arise in an individual organism. 25 Environmental stimuli can increase or induce transcription in prokaryotic
+cells. In this example, lactose in the environment will induce the transcription of the lac operon, but only if glucose
+is not available in the environment. 27 You can create medications that reverse the epigenetic processes (to add
+histone acetylation marks or to remove DNA methylation) and create an open chromosomal configuration. 29 Histone
+acetylation reduces the positive charge of histone proteins, loosening the DNA wrapped around the histones. This
+looser DNA can then interact with transcription factors to express genes found in that region. Normally, once the
+gene is no longer needed, histone deacetylase enzymes remove the acetyl groups from histones so that the DNA
+becomes tightly wound and inaccessible again. However, when there is a defect in HDAC9, the deacetylation may
+not occur. In an immune cell, this would mean that inflammatory genes that were made accessible during an infection
+are not tightly rewound around the histones. 31 If too much of an activating transcription factor were present, then
+transcription would be increased in the cell. This could lead to dramatic alterations in cell function. 33 RNA binding
+proteins (RBP) bind to the RNA and can either increase or decrease the stability of the RNA. If they increase the
+stability of the RNA molecule, the RNA will remain intact in the cell for a longer period of time than normal. Since both
+RBPs and miRNAs bind to the RNA molecule, RBP can potentially bind first to the RNA and prevent the binding of
+the miRNA that will degrade it. 35 Because proteins are involved in every stage of gene regulation, phosphorylation
+of a protein (depending on the protein that is modified) can alter accessibility to the chromosome, can alter translation
+(by altering the transcription factor binding or function), can change nuclear shuttling (by influencing modifications to
+the nuclear pore complex), can alter RNA stability (by binding or not binding to the RNA to regulate its stability), can
+modify translation (increase or decrease), or can change post-translational modifications (add or remove phosphates
+or other chemical modifications). 37 Environmental stimuli, like ultraviolet light exposure, can alter the modifications to
+the histone proteins or DNA. Such stimuli may change an actively transcribed gene into a silenced gene by removing
+acetyl groups from histone proteins or by adding methyl groups to DNA. 39 These drugs will keep the histone proteins
+and the DNA methylation patterns in the open chromosomal configuration so that transcription is feasible. If a gene is
+silenced, these drugs could reverse the epigenetic configuration to re-express the gene.
+Chapter 17
+1 Figure 17.7 B. The experiment would result in blue colonies only. 3 Figure 17.15 There are no right or wrong
+answers to these questions. While it is true that prostate cancer treatment itself can be harmful, many men would rather
+be aware that they have cancer so they can monitor the disease and begin treatment if it progresses. And while genetic
+screening may be useful, it is expensive and may cause needless worry. People with certain risk factors may never
+develop the disease, and preventative treatments may do more harm than good. 4 B 6 B 8 D 10 B 12 A 14 A 16
+D 18 D 20 B 22 Southern blotting is the transfer of DNA that has been enzymatically cut into fragments and run on
+an agarose gel onto a nylon membrane. The DNA fragments that are on the nylon membrane can be denatured to
+make them single-stranded, and then probed with small DNA fragments that are radioactively or fluorescently labeled,
+to detect the presence of specific sequences. An example of the use of Southern blotting would be in analyzing
+the presence, absence, or variation of a disease gene in genomic DNA from a group of patients. 24 By identifying
+an herbicide resistance gene and cloning it into a plant expression vector system, like the Ti plasmid system from
+Agrobacterium tumefaciens. The scientist would then introduce it into the plant cells by transformation, and select
+cells that have taken up and integrated the herbicide-resistance gene into the genome. 26 Genome mapping has
+many different applications and provides comprehensive information that can be used for predictive purposes. 28
+Metagenomics is revolutionary because it replaced the practice of using pure cultures. Pure cultures were used
+to study individual species in the laboratory, but did not accurately represent what happens in the environment.
+Metagenomics studies the genomes of bacterial populations in their environmental niche. 30 Proteomics has provided
+a way to detect biomarkers and protein signatures, which have been used to screen for the early detection of cancer.
+Chapter 18
+1 Figure 18.14 Loss of genetic material
+is almost always lethal, so offspring with 2n+1 chromosomes are more
+likely to survive. 3 Figure 18.23 Answer B 4 B 6 D 8 A 10 B 12 C 14 D 16 C 17 The plants that can best use
+the resources of the area, including competing with other individuals for those resources will produce more seeds
+themselves and those traits that allowed them to better use the resources will increase in the population of the next
+generation. 19 In science, a theory is a thoroughly tested and verified set of explanations for a body of observations of
+nature. It is the strongest form of knowledge in science. In contrast, a theory in common vernacular can mean a guess
+or speculation about something, meaning that the knowledge implied by the theory is very weak.  21 Organisms of
+one species can arrive to an island together and then disperse throughout the chain, each settling into different niches
+and exploiting different food resources to reduce competition.  23 The formation of gametes with new n numbers can
+occur in one generation. After a couple of generations, enough of these new hybrids can form to reproduce together
+as a new species.  25 If the hybrid offspring are as fit or more fit than the parents, reproduction would likely continue
+between both species and the hybrids, eventually bringing all organisms under the umbrella of one species.
+Chapter 19
+1 Figure 19.2 The expected distribution is 320 VV, 160Vv, and 20 vv plants. Plants with VV or Vv genotypes would
+have  violet  flowers,  and  plants  with  the  vv  genotype  would  have  white  flowers,  so  a  total  of  480  plants  would  be
+expected to have violet flowers, and 20 plants would have white flowers.  3 Figure 19.8 Moths have shifted to a lighter
+color.  4 C  6 D  8 C  10 A  12 D  14 A  16 p = (8*2 + 4)/48 = .42; q = (12*2 + 4)/48 = .58; p2  = .17; 2pq = .48; q2
+= .34  18 Red is recessive so q2 = 200/800 = 0.25; q = 0.5; p = 1 - q = 0.5; p2 = 0.25; 2pq = 0.5. You would expect
+200 homozygous blue flowers, 400 heterozygous blue flowers, and 200 red flowers.  20 The theory of natural selection
+stems from the observation that some individuals in a population survive longer and have more offspring than others:
+thus, more of their genes are passed to the next generation. For example, a big, powerful male gorilla is much more
+likely than a smaller, weaker one to become the population’s silverback: the pack’s leader who mates far more than
+the other males of the group. Therefore, the pack leader will father more offspring who share half of his genes and are
+likely to grow bigger and stronger like their father. Over time, the genes for bigger size will increase in frequency in
+the population, and the average body size, as a result, will grow larger on average.  22 The peacock’s tail is a good
+example of the handicap principle. The tail, which makes the males more visible to predators and less able to escape,
+is clearly a disadvantage to the bird’s survival. But because it is a disadvantage, only the most fit males should be able
+to survive with it. Thus, the tail serves as an honest signal of quality to the females of the population; therefore, the
+male will earn more matings and greater reproductive success.
+Chapter 20
+1 Figure 20.6  Cats and dogs are part of the same group at five levels: both are in the domain Eukarya, the kingdom
+Animalia,  the  phylum  Chordata,  the  class  Mammalia,  and  the  order  Carnivora.  3  Figure 20.11  The  largest  clade
+encompasses the entire tree.  4 C  6 D  8 C  10 B  12 C  14 A  16 The phylogenetic tree shows the order in which
+evolutionary events took place and in what order certain characteristics and organisms evolved in relation to others.
+It does not relate to time.  18 domain, kingdom, phylum, class, order, family, genus, species  20 Phylogenetic trees
+are based on evolutionary connections. If an analogous similarity were used on a tree, this would be erroneous and,
+furthermore, would cause the subsequent branches to be inaccurate.  22 Some hypotheses propose that mitochondria
+were  acquired  first,  followed  by  the  development  of  the  nucleus.  Others  propose  that  the  nucleus  evolved  first  and
+that this new eukaryotic cell later acquired the mitochondria. Still others hypothesize that prokaryotes descended from
+eukaryotes by the loss of genes and complexity.
+Chapter 21
+1 Figure 21.5 D  3 Figure 21.10 C  4 B  6 D  8 A  10 B  12 D  14 D  16 A  18 D  20 C  22 Viruses pass through
+filters that eliminated all bacteria which were visible in the light microscopes at the time. As the bacteria-free filtrate
+could  still  cause  infections  when  given  to  a  healthy  organism,  this  observation  demonstrated  the  existence  of  very
+small infectious agents. These agents were later shown to be unrelated to bacteria and were classified as viruses.  24
+Rabies virus is a (-) strand RNA virus that transcribes mRNAs from its genome (Group V). HIV-1 is a single-stranded
+RNA retrovirus that uses reverse transcriptase to create a double-stranded DNA copy of its genome which is integrated
+into the host human’s genome prior to making mRNAs (Group VI). The genome structure system classifies both viruses
+as single-stranded RNA viruses with linear genomes. Baltimore classification sorts Rabies virus and HIV-1 into two
+different groups, indicating that the two viruses have very different life cycles. However, genome structure classification
+does  not  distinguish  between  the  two  viruses.  This  leaves  out  important  information  regarding  virus  function  and
+survival.  26  Reverse  transcriptase  is  needed  to  make  more  HIV-1  viruses,  so  targeting  the  reverse  transcriptase
+enzyme may be a way to inhibit the replication of the virus. Importantly, by targeting reverse transcriptase, we do little
+harm to the host cell, since host cells do not make reverse transcriptase. Thus, we can specifically attack the virus and
+not the host cell when we use reverse transcriptase inhibitors.  28 Plant viruses infect crops, causing crop damage
+and failure, and considerable economic losses.  30 Rabies vaccine works after a bite because it takes a week for the
+virus to travel from the site of the bite to the central nervous system, where the most severe symptoms of the disease
+occur. Adults are not routinely vaccinated for rabies for two reasons: first, because the routine vaccination of domestic
+animals makes it unlikely that humans will contract rabies from an animal bite; second, if one is bitten by a wild animal
+or a domestic animal that one cannot confirm has been immunized, there is still time to give the vaccine and avoid the
+often fatal consequences of the disease.  32 This prion-based disease is transmitted through human consumption of
+infected meat.  34 The botanist would need to isolate any foreign nucleic acids from infected plant cells, and confirm
+that an RNA molecule is the etiological agent of disease. The botanist would then need to demonstrate that the RNA
+can infect plant cells without a capsid, and that the RNA replicates, but is not translated to produce proteins.
+Chapter 22
+1 Figure 22.8 The extracellular matrix and outer layer of cells protects the inner bacteria. The close proximity of cells
+also facilitates lateral gene transfer, a process by which genes such as antibiotic-resistance genes are transferred
+from one bacterium to another. And even if lateral gene transfer does not occur, one bacterium that produces an
+exo-enzyme that destroys antibiotic may save neighboring bacteria. 3 Figure 22.19 D 4 A 6 A 8 C 10 D 12
+B 14 C 16 B 18 A 20 A 22 D 24 D 26 D 28 B 30 As the organisms are non-culturable, the presence could
+be detected through molecular techniques, such as PCR. 32 Possible answers include:
+PsychrophileHypolith –
+survival in low humidity/water environment 34 Both bacteria and archaea have cell membranes and they both contain
+a hydrophobic portion. In the case of bacteria, it is a fatty acid; in the case of archaea, it is a hydrocarbon (phytanyl).
+Both bacteria and archaea have a cell wall that protects them. In the case of bacteria, it is composed of peptidoglycan,
+whereas in the case of archaea, it is pseudopeptidoglycan, polysaccharides, glycoproteins, or pure protein. Bacterial
+and archaeal flagella also differ in their chemical structure. 36 Responses will vary. In a deep-sea hydrothermal vent,
+there is no light, so prokaryotes would be chemotrophs instead of phototrophs. The source of carbon would be carbon
+dioxide dissolved in the ocean, so they would be autotrophs. There is not a lot of organic material in the ocean,
+so prokaryotes would probably use inorganic sources, thus they would be chemolitotrophs. The temperatures are
+very high in the hydrothermal vent, so the prokaryotes would be thermophilic. 38 Losing the bacteria that serve as
+decomposers in the ecosystem would disrupt the carbon cycle, but not stop it completely since fungi can also serve
+as decomposers. Without bacterial decomposers functioning, organic waste would accumulate in the area, and less
+carbon dioxide would be released back into the atmosphere. 40 E. coli colonizes the surface of the leaf, forming a
+biofilm that is more difficult to remove than free (planktonic) cells. Additionally, bacteria can be taken up in the water
+that plants are grown in, thereby entering the plant tissues rather than simply residing on the leaf surface. 42 Soap
+indiscriminately kills bacteria on skin. This kills harmful bacteria, but can also eliminate “good” bacteria from the skin.
+When the non-pathogenic bacteria are eliminated, pathogenic bacteria can colonize the empty surface.
+Chapter 23
+1 Figure 23.5 All eukaryotic cells have mitochondria, but not all eukaryotic cells have chloroplasts. 3 Figure 23.28
+C 4 D 6 C 8 C 10 D 12 B 14 A 16 C 18 D 20 A 22 B 23 Eukaryotic cells arose through endosymbiotic events
+that gave rise to the energy-producing organelles within the eukaryotic cells such as mitochondria and chloroplasts.
+The nuclear genome of eukaryotes is related most closely to the Archaea, so it may have been an early archaean
+that engulfed a bacterial cell that evolved into a mitochondrion. Mitochondria appear to have originated from an
+alpha-proteobacterium, whereas chloroplasts originated as a cyanobacterium. There is also evidence of secondary
+endosymbiotic events. Other cell components may also have resulted from endosymbiotic events. 25 The ability to
+perform sexual reproduction allows protists to recombine their genes and produce new variations of progeny that may
+be better suited to the new environment. In contrast, asexual reproduction generates progeny that are clones of the
+parent. 27 Protists are defined as any eukaryotes that do not fall into the Plantae, Fungi, or Animal Kingdoms. Since
+the unifying characteristics describe what they are NOT, rather than what they are, Protista can include almost any
+cellular/organism organization. Possible examples of structure variety:
+Barrier to exterior world: cell wall, plasma
+membrane, pellicleLocomotion: flagella, cilia, pseudopodia 29 By definition, an obligate saprobe lacks the ability to
+perform photosynthesis, so it cannot directly obtain nutrition by searching for light. Instead, a chemotactic mechanism
+that senses the odors released during decay might be a more effective sensing organ for a saprobe. 31 Possible
+answers include:
+Two nuclei (a macronucleus and a micronucleus) instead of one nucleusAmitotic division/binary
+fission during asexual reproduction instead of mitotic cell divisionMitosis of the micronucleus after meiosis instead
+of direct meiotic production of gametes for sexual reproduction 33 The trypanosomes that cause this disease are
+capable of expressing a glycoprotein coat with a different molecular structure with each generation. Because the
+immune system must respond to specific antigens to raise a meaningful defense, the changing nature of trypanosome
+antigens prevents the immune system from ever clearing this infection. Massive trypanosome infection eventually
+leads to host organ failure and death.
+Chapter 24
+1 Figure 24.14 A 3 Figure 24.21 Without mycorrhiza, plants cannot absorb adequate nutrients, which stunts their
+growth. Addition of fungal spores to sterile soil can alleviate this problem. 4 C 6 D 8 C 10 B 12 B 14 C 16 C
+18 C 20 B 22 A 23 Asexual reproduction is fast and best under favorable conditions. Sexual reproduction allows
+the recombination of genetic traits and increases the odds of developing new adaptations better suited to a changed
+environment. 25 Fungi break down decaying matter in their environment to serve as their food source. Since the
+digestion occurs externally, the large mycelium can secrete exoenzymes over a large area. The fungi must be able to
+absorb the small molecules released by digestion, so having a large surface area increases the amount of digested
+molecules that are captured by the fungi. 27 Chytridiomycota (Chytrids) may have a unicellular or multicellular body
+structure; some are aquatic with motile spores with flagella; an example is the Allomyces. Zygomycota (conjugated
+fungi) have a multicellular body structure; features include zygospores and presence in soil; examples are bread and
+fruit  molds.  Ascomycota  (sac  fungi)  may  have  unicellular  or  multicellular  body  structure;  a  feature  is  sexual  spores
+in  sacs  (asci);  examples  include  the  yeasts  used  in  bread,  wine,  and  beer  production.  Basidiomycota  (club  fungi)
+have  multicellular  bodies;  features  includes  sexual  spores  in  the  basidiocarp  (mushroom)  and  that  they  are  mostly
+decomposers;  mushroom-producing  fungi  are  an  example.  29  The  bark  beetles  and  the  fungus  have  a  mutualistic
+relationship since each partner benefits from interacting with the other. The beetle can provide food for its offspring,
+while the fungus can spread to new trees.  31 Dermatophytes that colonize skin break down the keratinized layer of
+dead cells that protects tissues from bacterial invasion. Once the integrity of the skin is breached, bacteria can enter the
+deeper layers of tissues and cause infections.  33 The dough is often contaminated by toxic spores that float in the air.
+It was one of Louis Pasteur’s achievements to purify reliable strains of baker’s yeast to produce bread consistently.
+Chapter 25
+1  Figure 25.6  B.  3  Figure 25.24  D.  4  A  6  C  8  C  10  C  12  D  14  A  16  B  18  D  20  D  22  D  24  Sunlight  is
+not  filtered  by  water  or  other  algae  on  land;  therefore,  there  is  no  need  to  collect  light  at  additional  wavelengths
+Climate: Deserts are more arid than
+made available by other pigment coloration.  26 Possible challenges include:
+swamps, so there is less humidity in the air and less water in the soil.Reproduction: Cactuses are often not densely
+populated,  whereas  cattails  occur  in  groups.Temperature:  During  the  day,  deserts  are  usually  hot,  which  increases
+the  risk  of  desiccation.  The  desert  climate  will  also  have  broader  temperature  ranges  (extremes).  28  It  allows  for
+survival  through  periodic  droughts  and  colonization  of  environments  where  the  supply  of  water  fluctuates.  30  The
+bryophytes are divided into three phyla: the liverworts or Hepaticophyta, the hornworts or Anthocerotophyta, and the
+Sexual  reproduction  is  dependent  upon  water  in  which  the
+mosses  or  true  Bryophyta.  32  Similarities  include:
+male gamete swims.The haploid organism is the dominant part of the life cycle. Differences include:
+Bryophyte
+gametotangia  protect  the  gametes  and  the  growing  embryo.Bryophytes  make  sporangium  to  produce  spores.  34
+Ferns are considered the most advanced seedless vascular plants, because they display characteristics commonly
+observed in seed plants—they form large leaves and branching roots.
+Chapter 26
+1 Figure 26.8 B. The diploid zygote forms after the pollen tube has finished forming, so that the male generative nuclei
+can fuse with the female gametophyte.  3 D  5 C  7 A  9 B  11 C  13 B  15 C  17 D  19 Both pollination and herbivory
+contributed  to  diversity,  with  plants  needing  to  attract  some  insects  and  repel  others.  21  The  trees  are  adapted  to
+arid  weather,  and  do  not  lose  as  much  water  due  to  transpiration  as  non-conifers.  23  The  resemblance  between
+cycads and palm trees is only superficial. Cycads are gymnosperms and do not bear flowers or fruit. Cycads produce
+cones: large, female cones that produce naked seeds, and smaller male cones on separate plants. Palms do not.  25
+Using animal pollinators promotes cross-pollination and increases genetic diversity. The odds that the pollen will reach
+another flower are greatly increased compared with the randomness of wind pollination.
+Chapter 27
+1 Figure 27.5 The animal might develop two heads and no tail.  3 Figure 27.9 D  4 B  6 D  8 B  10 C  12 D  14 B  16
+C  18 D  19 The development of specialized tissues affords more complex animal anatomy and physiology because
+differentiated tissue types can perform unique functions and work together in tandem to allow the animal to perform
+more  functions.  For  example,  specialized  muscle  tissue  allows  directed  and  efficient  movement,  and  specialized
+nervous tissue allows for multiple sensory modalities as well as the ability to respond to various sensory information;
+these functions are not necessarily available to other nonanimal organisms.  21 Altered expression of homeotic genes
+can lead to major changes in the morphology of the individual. Hox genes can affect the spatial arrangements of organs
+and body parts. If a Hox gene was mutated or duplicated, it could affect where a leg might be on a fruit fly or how far
+apart a person’s fingers are.  23 The evolution of bilateral symmetry led to designated head and tail body regions, and
+promoted more efficient mobility for animals. This improved mobility allowed for more skillful seeking of resources and
+prey escaping from predators. The appearance of the coelom in coelomates provides many internal organs with shock
+absorption, making them less prone to physical damage from bodily assault. A coelom also gives the body greater
+flexibility, which promotes more efficient movement. The relatively loose placement of organs within the coelom allows
+them to develop and grow with some spatial freedom, which promoted the evolution of optimal organ arrangement.
+The coelom also provides space for a circulatory system, which is an advantageous way to distribute body fluids and
+gases.  25  In  many  cases,  morphological  similarities  between  animals  may  be  only  superficial  similarities  and  may
+not indicate a true evolutionary relationship. One of the reasons for this is that certain morphological traits can evolve
+along very different evolutionary branches of animals for similar ecological reasons.  27 It is true that multiple mass
+extinction events have taken place since the Cambrian period, when most currently existing animal phyla appeared,
+and the majority of animal species were commonly wiped out during these events. However, a small number of animal
+species representing each phylum were usually able to survive each extinction event, allowing the phylum to continue
+to evolve rather than become altogether extinct.
+Chapter 28
+1 Figure 28.3 B 3 Figure 28.45 C 4 B 6 B 8 C 10 A 12 B 14 D 16 C 18 B 20 D 22 A 24 Pinacocytes
+are epithelial-like cells, form the outermost layer of sponges, and enclose a jelly-like substance called mesohyl. In
+some sponges, porocytes form ostia, single tube-shaped cells that act as valves to regulate the flow of water into
+the spongocoel. Choanocytes (“collar cells”) are present at various locations, depending on the type of sponge, but
+they always line some space through which water flows and are used in feeding. 26 Nematocysts are “stinging cells”
+designed to paralyze prey. The nematocysts contain a neurotoxin that renders prey immobile. 28 There are two key
+differences between Porifera (sponges) and Cubozoans (box jellyfish) – gamete production and fertilization strategy.
+Box jellyfish have separate sexes, while a single sponge can produce both types of gametes. Box jellyfish also undergo
+internal fertilization, while sponges reproduce by external fertilization. Internal fertilization allows box jellyfish to control
+which sperm is used for fertilization and increases the likelihood of ova and spermatozoa meeting. 30 Mollusks have
+a large muscular foot that may be modified in various ways, such as into tentacles, but it functions in locomotion.
+They have a mantle, a structure of tissue that covers and encloses the dorsal portion of the animal, and secrete the
+shell when it is present. The mantle encloses the mantle cavity, which houses the gills (when present), excretory
+pores, anus, and gonadopores. The coelom of mollusks is restricted to the region around the systemic heart. The
+main body cavity is a hemocoel. Many mollusks have a radula near the mouth that is used for scraping food. 32
+Cephalopods have a closed circulatory system, while other members of the Mollusca phylum have open circulatory
+systems. Having a closed system allows blood to be moved more efficiently and rapidly through the animal, since the
+circulation is not limited by diffusion. For example, this allows the octopus to have a much more complex body plan,
+with branching tentacles, compared to a snail. In many cases, a closed circulatory system also allows the development
+of larger organisms. 34 There are nematodes with separate sexes and hermaphrodites in addition to species that
+reproduce parthenogentically. The nematode Caenorhabditis elegans has a self-fertilizing hermaphrodite sex and a
+pure male sex. 36 The Arthropoda include the Hexapoda, which are mandibulates with six legs; the Myriapoda,
+which are mandibulates with many legs and include the centipedes and millipedes; the Crustacea, which are mostly
+marine mandibulates; and the Chelicerata, which include the spiders and scorpions and their kin. 38 Insects are
+the predominant members of the subphylum Hexapoda. Advantages:
+Pollination;Eliminate pests;Cheap food
+source;Produce food products (ex. honey) Disadvantages:
+Damage to food crops;Transmit disease to agricultural
+workers;Contaminate/spoil food;Destroy buildings storing food crops
+Chapter 29
+1 Figure 29.3 A 3 Figure 29.24 The ancestor of modern Testudines may at one time have had a second opening in
+the skull, but over time this might have been lost. 4 B 6 A 8 B 10 D 12 C 14 D 16 D 18 D 20 A 22 B 23 The
+characteristic features of the phylum Chordata are a notochord, a dorsal hollow nerve cord, pharyngeal slits, and a
+post-anal tail. 25 Comparison of hagfishes with lampreys shows that the cranium evolved first in early vertebrates, as
+it is seen in hagfishes, which evolved earlier than lampreys. This was followed by evolution of the vertebral column, a
+primitive form of which is seen in lampreys and not in hagfishes. 27 A moist environment is required, as frog eggs lack
+a shell and dehydrate quickly in dry environments. 29 Frogs (Anura) begin their lives as tadpoles, organisms restricted
+to an aquatic environment that use gills to breathe. After metamorphosis, most frogs develop lungs and lose their gills,
+although they will also continue to perform gas exchange through their skin. The lungs of an adult frog allow the animal
+to move out of the water, and become terrestrial. This limits competition between adults and tadpoles by opening
+new living space and food sources to the adult. 31 Lizards differ from snakes by having eyelids, external ears, and
+less kinematic skulls. 33 This is suggested by similarities observed between theropod fossils and birds, specifically
+in the design of the hip and wrist bones, as well as the presence of a furcula, or wishbone, formed by the fusing of
+the clavicles. 35 Ostriches and penguins are flightless birds, but ostriches are entirely terrestrial, while penguins dive
+and swim in the ocean to find food. Therefore, penguins and flight birds like terns have similar chest structures with a
+keel sternum and relatively large pectoral muscles (penguins use their wings to “fly” through water). Conversely, since
+ostriches move by running, they do not have a keel to their sternum. They also have smaller pectoral muscles than
+would be predicted for a flying bird their size, but have larger thigh muscles. 37 In some mammals, the cerebral cortex
+is highly folded, allowing for greater surface area than a smooth cortex. The optic lobes are divided into two parts in
+mammals. Eutherian mammals also possess a specialized structure that links the two cerebral hemispheres, called
+the corpus callosum. 39 Archaic Homo sapiens differed from modern humans by having a thick skull and a prominent
+brow ridge, and lacking a prominent chin.
+Chapter 30
+1 Figure 30.7 A and B. The cortex, pith, and epidermis are made of parenchyma cells. 3 Figure 30.34 B. 4 C 6 C 8
+A 10 B 12 A 14 B 16 C 18 B 20 D 22 C 24 C 26 C 27 Lawn grasses and other monocots have an intercalary
+meristem, which is a region of meristematic tissue at the base of the leaf blade. This is beneficial to the plant because
+it can continue to grow even when the tip of the plant is removed by grazing or mowing. 29 Stomata allow gases
+to enter and exit the plant. Guard cells regulate the opening and closing of stomata. If these cells did not function
+correctly, a plant could not get the carbon dioxide needed for photosynthesis, nor could it release the oxygen produced
+by  photosynthesis.  31  In  woody  plants,  the  cork  cambium  is  the  outermost  lateral  meristem;  it  produces  new  cells
+towards the interior, which enables the plant to increase in girth. The cork cambium also produces cork cells towards
+the exterior, which protect the plant from physical damage while reducing water loss.  33 Annual rings can also indicate
+the climate conditions that prevailed during each growing season.  35 A tap root system has a single main root that
+grows down. A fibrous root system forms a dense network of roots that is closer to the soil surface. An example of a
+tap root system is a carrot. Grasses such as wheat, rice, and corn are examples of fibrous root systems. Fibrous root
+systems are found in monocots; tap root systems are found in dicots.  37 Monocots have leaves with parallel venation,
+and dicots have leaves with reticulate, net-like venation.  39 The process of bulk flow moves water up the xylem and
+moves photosynthates (solutes) up and down the phloem.  41 Gravitropism will allow roots to dig deep into the soil to
+find water and minerals, whereas the seedling will grow towards light to enable photosynthesis.  43 To prevent further
+entry of pathogens, stomata close, even if they restrict entry of CO2. Some pathogens secrete virulence factors that
+inhibit the closing of stomata. Abscisic acid is the stress hormone responsible for inducing closing of stomata.
+Chapter 31
+1 Figure 31.6 The air content of the soil decreases.  3 Figure 31.10 Soybeans are able to fix nitrogen in their roots,
+which are not harvested at the end of the growing season. The belowground nitrogen can be used in the next season
+by the corn.  4 C  6 A  8 D  10 B  12 B  14 A  16 Deficiencies in these nutrients could result in stunted growth, slow
+growth, and chlorosis.  18 Answers may vary. Essential macronutrients include carbon, hydrogen, oxygen, nitrogen,
+phosphorus,  potassium,  calcium,  magnesium,  and  sulfur.  Essential  micronutrients  include  iron,  manganese,  boron,
+molybdenum,  copper,  zinc,  chlorine,  nickel,  cobalt,  sodium,  and  silicon.  20  Parent  material,  climate,  topography,
+biological factors, and time affect soil formation. Parent material is the material in which soils form. Climate describes
+how temperature, moisture, and wind cause different patterns of weathering, influencing the characteristics of the soil.
+Topography affects the characteristics and fertility of a soil. Biological factors include the presence of living organisms
+that greatly affect soil formation. Processes such as freezing and thawing may produce cracks in rocks; plant roots
+can  penetrate  these  crevices  and  produce  more  fragmentation.  Time  affects  soil  because  soil  develops  over  long
+periods.  22 Because it is natural and does not require use of a nonrenewable resource, such as natural gas.  24 A
+nodule  results  from  the  symbiosis  between  a  plant  and  bacterium.  Within  nodules,  the  process  of  nitrogen  fixation
+allows the plant to obtain nitrogen from the air.
+Chapter 32
+1 Figure 32.3 Pollen (or sperm); carpellate; staminate.  3 Figure 32.20 B  4 B  6 A  8 B  10 D  12 A  14 D  16 Inside
+the flower are the reproductive organs of the plant. The stamen is the male reproductive organ. Pollen is produced in
+the stamen. The carpel is the female reproductive organ. The ovary is the swollen base of the carpel where ovules
+are  found.  Not  all  flowers  have  every  one  of  the  four  parts.  18  A  typical  flower  has  four  main  parts,  or  whorls:  the
+calyx, corolla, androecium, and gynoecium. The outermost whorl of the flower has green, leafy structures known as
+sepals, which are collectively called the calyx. It helps to protect the unopened bud. The second whorl is made up
+of brightly colored petals that are known collectively as the corolla. The third whorl is the male reproductive structure
+known as the androecium. The androecium has stamens, which have anthers on a stalk or filament. Pollen grains are
+borne on the anthers. The gynoecium is the female reproductive structure. The carpel is the individual structure of the
+gynoecium and has a stigma, the stalk or style, and the ovary.  20 Many seeds enter a period of inactivity or extremely
+low metabolic activity, a process known as dormancy. Dormancy allows seeds to tide over unfavorable conditions and
+germinate on return to favorable conditions. Favorable conditions could be as diverse as moisture, light, cold, fire, or
+chemical treatments. After heavy rains, many new seedlings emerge. Forest fires also lead to the emergence of new
+seedlings.  22 Asexual reproduction does not require the expenditure of the plant’s resources and energy that would
+be involved in producing a flower, attracting pollinators, or dispersing seeds. Asexual reproduction results in plants that
+are genetically identical to the parent plant, since there is no mixing of male and female gametes, resulting in better
+survival. The cuttings or buds taken from an adult plant produce progeny that mature faster and are sturdier than a
+seedling  grown  from  a  seed.  24  Plant  species  that  complete  their  life  cycle  in  one  season  are  known  as  annuals.
+Biennials complete their life cycle in two seasons. In the first season, the plant has a vegetative phase, whereas in
+the next season, it completes its reproductive phase. Perennials, such as the magnolia, complete their life cycle in two
+years or more.
+Chapter 33
+1  Figure 33.11  A  3  Figure 33.23  Pyrogens  increase  body  temperature  by  causing  the  blood  vessels  to  constrict,
+inducing shivering, and stopping sweat glands from secreting fluid.  4 A  6 C  8 D  10 D  12 C  14 D  16 D  18 A  20
+B  22 C  24 A  26 B  28 A  29 Diffusion is effective over a very short distance. If a cell exceeds this distance in its size,
+the center of the cell cannot get adequate nutrients nor can it expel enough waste to survive. To compensate for this,
+cells can loosely adhere to each other in a liquid medium, or develop into multi-celled organisms that use circulatory
+and respiratory systems to deliver nutrients and remove wastes.  31 In an open circulatory system, the heart(s) pump
+blood into an open cavity, bathing the tissues. As the blood diffuses through the tissue space, it delivers nutrients in
+exchange for receiving metabolic wastes. The blood then diffuses back to the heart to be pumped again. However,
+since this system relies on diffusion, the size of animals that use an open circulatory system is limited to fairly small
+volumes so that the blood can diffuse rapidly enough to efficiently exchange molecules with the tissues. 33 Squamous
+epithelia can be either simple or stratified. As a single layer of cells, it presents a very thin epithelia that minimally
+inhibits diffusion. As a stratified epithelia, the surface cells can be sloughed off and the cells in deeper layers protect
+the underlying tissues from damage. 35 In multiple sclerosis, the immune system attacks the oligodendrocytes. The
+death of oligodendrocytes results in the loss of the insulating sheath around the axon of the neurons. When the sheath
+is gone, the electrical impulses travel much more slowly down the length of the axon. 37 An adjustment to a change
+in the internal or external environment requires a change in the direction of the stimulus. A negative feedback loop
+accomplishes this, while a positive feedback loop would continue the stimulus and result in harm to the animal. 39
+Diabetes is often associated with a lack in production of insulin. Without insulin, blood glucose levels go up after a
+meal, but never go back down to normal levels.
+Chapter 34
+1 Figure 34.11 B 3 Figure 34.19 C 4 D 6 C 8 B 10 D 12 C 14 A 16 B 18 B 20 Animals with a polygastric
+digestive system have a multi-chambered stomach. The four compartments of the stomach are called the rumen,
+reticulum, omasum, and abomasum. These chambers contain many microbes that breakdown the cellulose and
+ferment the ingested food. The abomasum is the “true” stomach and is the equivalent of a monogastric stomach
+chamber where gastric juices are secreted. The four-compartment gastric chamber provides larger space and the
+microbial support necessary for ruminants to digest plant material. 22 Accessory organs play an important role in
+producing and delivering digestive juices to the intestine during digestion and absorption. Specifically, the salivary
+glands, liver, pancreas, and gallbladder play important roles. Malfunction of any of these organs can lead to disease
+states. 24 The stomach and the teeth both perform mechanical digestion, which is physically (as opposed to
+chemically) breaking the food into smaller components. This exposes a larger surface area for chemical digestion
+and release of nutrients. The teeth are vital to mastication, which breaks large bites of food down into smaller pieces
+that are easily swallowed. The stomach’s muscle contractions churn the food to expose all particles to the acid and
+digestive enzymes. 26 Minerals—such as potassium, sodium, and calcium—are required for the functioning of many
+cellular processes, including muscle contraction and nerve conduction. While minerals are required in trace amounts,
+not having minerals in the diet can be potentially harmful. 28 Malnutrition, often in the form of not getting enough
+calories or not enough of the essential nutrients, can have severe consequences. Many malnourished children have
+vision and dental problems, and over the years may develop many serious health problems. 30 Fats are an essential
+component of a healthy diet, and needed by the body to function. Fats are essential for many processes, including
+the absorption of fat-soluble vitamins and production of some hormones. Fats also send a satiation signal to the brain
+that regulates hunger. Without fats in their diets many people may have actually consumed more calories, which
+would have resulted in weight gain. 32 The gut microbiome includes all the bacteria that aid in chemical digestion
+in the intestines. Changing its composition can change the way that food is digested since not all bacteria have
+the same macromolecule-digesting enzymes. Additionally, changes in gut microbiome can lead to the establishment
+of pathogenic bacteria populations that cause inflammation in the gut or other disease. 34 Hormones control the
+different digestive enzymes that are secreted in the stomach and the intestine during the process of digestion and
+absorption. For example, the hormone gastrin stimulates stomach acid secretion in response to food intake. The
+hormone somatostatin stops the release of stomach acid. 36 Somatostatin is the hormone that inhibits the release
+of HCl
+into the stomach lumen after the chyme has moved to the intestine. If the receptor for somatostatin is
+nonfunctional, somatostatin cannot signal to the stomach parietal cells to stop acid secretion. Thus, acid secretion
+will continue when there is no food present, and can cause damage to the stomach tissue. However, as long as the
+stomach remains intact the mutation should not slow digestion since acid will always be present in the stomach to
+digest any new boluses of food.
+Chapter 35
+1 Figure 35.3 B 3 Figure 35.26 D 4 C 6 B 8 B 10 C 12 D 14 B 16 C 18 A 20 C 22 D 24 Neurons contain
+organelles common to all cells, such as a nucleus and mitochondria. They are unique because they contain dendrites,
+which can receive signals from other neurons, and axons that can send these signals to other cells. 26 A single
+axon means that a neuron can only send one signal at a time (one electrical impulse down the length of the axon).
+However, since the axon has multiple terminals it can send the signal to several other cells at once. This ensures
+that the signal is rapidly propagated to the rest of the body. 28 An action potential travels along an axon until it
+depolarizes the membrane at an axon terminal. Depolarization of the membrane causes voltage-gated Ca2+ channels
+to open and Ca2+ to enter the cell. The intracellular calcium influx causes synaptic vesicles containing neurotransmitter
+to fuse with the presynaptic membrane. The neurotransmitter diffuses across the synaptic cleft and binds to receptors
+on the postsynaptic membrane. Depending on the specific neurotransmitter and postsynaptic receptor, this action
+can cause positive (excitatory postsynaptic potential) or negative (inhibitory postsynaptic potential) ions to enter the
+cell.  30 To determine the function of a specific brain area, scientists can look at patients who have damage in that brain
+area and see what symptoms they exhibit. Researchers can disable the brain structure temporarily using transcranial
+magnetic stimulation. They can disable or remove the area in an animal model. fMRI can be used to correlate specific
+functions  with  increased  blood  flow  to  brain  regions.  32  Potential  answers:
+Frontal  lobe.  Alzheimer’s  patients
+experience changes in personality, judgment, and behavior.;Parietal lobe. Alzheimer’s patients experience difficulties
+with recalling and using language as disease progresses.;Temporal lobe. The hippocampus is one of the main areas of
+the brain affected in Alzheimer’s disease. Patients lose the ability to make new memories and access memories.  34
+The  sensory-somatic  nervous  system  transmits  sensory  information  from  the  skin,  muscles,  and  sensory  organs
+to  the  CNS.  It  also  sends  motor  commands  from  the  CNS  to  the  muscles,  causing  them  to  contract.  36  Many
+events in modern human life are not physical dangers; instead they are events we think of as “stress.” Finding the
+money  to  pay  your  student  loans  or  being  nervous  before  a  test  still  activate  the  sympathetic  nervous  system,  but
+these situations do not require the fight-or-flight response to survive.  38 Possible treatments for patients with major
+depression include psychotherapy and prescription medications. MAO inhibitor drugs inhibit the breakdown of certain
+neurotransmitters (including dopamine, serotonin, norepinephrine) in the synaptic cleft. SSRI medications inhibit the
+reuptake of serotonin into the presynaptic neuron.
+Chapter 36
+1  Figure 36.5  D  3  Figure 36.18  A  4  B  6  A  8  B  10  B  12  A  14  B  16  D  18  B  20  B  22  D  24  Transmission  of
+sensory information from the receptor to the central nervous system will be impaired, and thus, perception of stimuli,
+which occurs in the brain, will be halted.  26 General sensory receptors are located throughout the body in the skin
+and internal organs. Conversely, special senses are all located in the head region, and require specialized organs.
+28 Pain is a subjective sensation that relies on the brain interpreting the nociception signals received by the sensory
+receptors (perception). Therefore, even though two people experience identical stimuli, their brains can perceive them
+as very different sensory experiences.  30 The animal might not be able to recognize the differences in food sources
+and thus might not be able to discriminate between spoiled food and safe food or between foods that contain necessary
+nutrients, such as proteins, and foods that do not.  32 The sound would slow down, because it is transmitted through
+the particles (gas) and there are fewer particles (lower density) at higher altitudes.  34 The first step in processing a
+sound in humans is the collection of sound by the pinna. When a person encounters a sound, the pinna on both sides
+of the head will collect the vibrations. Since the waves originate from a single site, the two pinnae will not collect the
+sound at the exact same time. When the sound is processed by the auditory system, the brain is able to use this slight
+difference in timing to determine the location of the sound.  36 The photoreceptors tonically inhibit the bipolar cells,
+and stimulation of the receptors turns this inhibition off, activating the bipolar cells.
+Chapter 37
+1  Figure 37.5  Proteins  unfold,  or  denature,  at  higher  temperatures.  3  Figure 37.14  Patient  A  has  symptoms
+associated  with  decreased  metabolism,  and  may  be  suffering  from  hypothyroidism.  Patient  B  has  symptoms
+associated with increased metabolism, and may be suffering from hyperthyroidism.  4 C  6 D  8 D  10 A  12 C  14
+A  16 B  18 C  20 C  21 Although there are many different hormones in the human body, they can be divided into
+three classes based on their chemical structure: lipid-derived, amino acid-derived, and peptide hormones. One of the
+key distinguishing features of the lipid-derived hormones is that they can diffuse across plasma membranes whereas
+the amino acid-derived and peptide hormones cannot.  23 Glucagon acts in opposition to insulin, the peptide hormone
+that stimulates cells to take up glucose from the bloodstream, to maintain blood glucose within healthy levels. When
+glucagon is released into the blood in response to falling blood sugar levels, the liver catabolizes its glycogen stores
+to  release  glucose.  If  glucagon  does  not  function  properly,  the  blood  sugar  will  drop  too  low  from  insulin  signaling
+driving cellular uptake from the blood.  25 Depending on the location of the protein receptor on the target cell and the
+chemical structure of the hormone, hormones can mediate changes directly by binding to intracellular receptors and
+modulating gene transcription, or indirectly by binding to cell surface receptors and stimulating signaling pathways.  27
+In  addition  to  producing  FSH  and  LH,  the  anterior  pituitary  also  produces  the  hormone  prolactin  (PRL)  in  females.
+Prolactin stimulates the production of milk by the mammary glands following childbirth. Prolactin levels are regulated
+by the hypothalamic hormones prolactin-releasing hormone (PRH) and prolactin-inhibiting hormone (PIH) which is now
+known to be dopamine. PRH stimulates the release of prolactin and PIH inhibits it. The posterior pituitary releases the
+hormone oxytocin, which stimulates contractions during childbirth. The uterine smooth muscles are not very sensitive
+to oxytocin until late in pregnancy when the number of oxytocin receptors in the uterus peaks. Stretching of tissues
+in the uterus and vagina stimulates oxytocin release in childbirth. Contractions increase in intensity as blood levels of
+oxytocin rise until the birth is complete.  29 The stressed patients that catch a cold must be chronically (long-term)
+stressed. Long-term stress results in the production of glucocorticoids, such as cortisol. These hormones inhibit the
+function of the immune system, which makes people more susceptible to infectious diseases.  31 The term humoral is
+derived from the term humor, which refers to bodily fluids such as blood. Humoral stimuli refer to the control of hormone
+release in response to changes in extracellular fluids such as blood or the ion concentration in the blood. For example,
+a rise in blood glucose levels triggers the pancreatic release of insulin. Insulin causes blood glucose levels to drop,
+which signals the pancreas to stop producing insulin in a negative feedback loop. Hormonal stimuli refer to the release
+of a hormone in response to another hormone. A number of endocrine glands release hormones when stimulated by
+hormones released by other endocrine organs. For example, the hypothalamus produces hormones that stimulate the
+anterior pituitary. The anterior pituitary in turn releases hormones that regulate hormone production by other endocrine
+glands. For example, the anterior pituitary releases thyroid-stimulating hormone, which stimulates the thyroid gland
+to produce the hormones T3 and T4. As blood concentrations of T3 and T4 rise they inhibit both the pituitary and
+the hypothalamus in a negative feedback loop. 33 The main mineralocorticoid is aldosterone, which regulates the
+concentration of ions in urine, sweat, and saliva. Aldosterone release from the adrenal cortex is stimulated by a
+decrease in blood concentrations of sodium ions, blood volume, or blood pressure, or an increase in blood potassium
+levels. 35 Damage to the posterior pituitary gland would prevent the release of ADH and oxytocin into the body.
+However, the hypothalamus’s ability to produce ADH would not be affected. The hypothalamus would also still be able
+to produce and release inhibiting hormones to regulate the anterior pituitary.
+Chapter 38
+1 Figure 38.19B 3 Figure 38.38 In the presence of Sarin, acetycholine is not removed from the synapse, resulting in
+continuous stimulation of the muscle plasma membrane. At first, muscle activity is intense and uncontrolled, but the
+ion gradients dissipate, so electrical signals in the T-tubules are no longer possible. The result is paralysis, leading to
+death by asphyxiation. 4 A 6 D 8 D 10 C 12 C 14 D 16 D 18 A 20 D 22 D 24 D 25 The female pelvis is tilted
+forward and is wider, lighter, and shallower than the male pelvis. It also has a pubic angle that is broader than the male
+pelvis. 27 Hydrostatic skeletons protect internal organs from harm by cushioning them from external shock. However,
+these skeletons do not provide protection from external trauma. Exoskeletons are hard structures that protect the
+organs from damage caused by their environment. However, since they are rigid, they provide little shock absorption,
+so the animal will need to have other ways of cushioning its internal organs. 29 Compact bone tissue forms the
+hard external layer of all bones and consists of osteons. Compact bone tissue is prominent in areas of bone at which
+stresses are applied in only a few directions. Spongy bone tissue forms the inner layer of all bones and consists of
+trabeculae. Spongy bone is prominent in areas of bones that are not heavily stressed or at which stresses arrive from
+many directions. 31 Thalidomide effected the development of the long bones of the arms, disrupting endochondral
+ossification. The bones would have been able to develop into a template made of the calcified cartilage matrix, but
+new blood vessels could not be created. Since no vessels invade the template, the structure is not converted into
+trabecular bone. 33 Elevation is the movement of a bone upward, such as when the shoulders are shrugged, lifting
+the scapulae. Depression is the downward movement of a bone, such as after the shoulders are shrugged and the
+scapulae return to their normal position from an elevated position. 35 Because ATP is required for myosin to release
+from actin, muscles would remain rigidly contracted until more ATP was available for the myosin cross-bridge release.
+This is why dead vertebrates undergo rigor mortis. 37 Neurons will not be able to release neurotransmitter without
+calcium. Skeletal muscles have calcium stored and don’t need any from the outside.
+Chapter 39
+1 Figure 39.7 B 3 Figure 39.20 The blood pH will drop and hemoglobin affinity for oxygen will decrease. 4 A 6
+B 8 D 10 B 12 D 14 C 16 The main bronchus is the conduit in the lung that funnels air to the airways where gas
+exchange occurs. The main bronchus attaches the lungs to the very end of the trachea where it bifurcates. The trachea
+is the cartilaginous structure that extends from the pharynx to the primary bronchi. It serves to funnel air to the lungs.
+The alveoli are the sites of gas exchange; they are located at the terminal regions of the lung and are attached to the
+respiratory bronchioles. The acinus is the structure in the lung where gas exchange occurs. 18 FEV1/FVC measures
+the forced expiratory volume in one second in relation to the total forced vital capacity (the total amount of air that is
+exhaled from the lung from a maximal inhalation). This ratio changes with alterations in lung function that arise from
+diseases such as fibrosis, asthma, and COPD. 20 Oxygen moves from the lung to the bloodstream to the tissues
+according to the pressure gradient. This is measured as the partial pressure of oxygen. If the amount of oxygen drops
+in the inspired air, there would be reduced partial pressure. This would decrease the driving force that moves the
+oxygen into the blood and into the tissues. PO2
+at high elevations is lower
+than at sea level because the total atmospheric pressure is less than atmospheric pressure at sea level. 22 Increased
+airway resistance increases the volume and pressure in the lung; therefore, the intrapleural pressure would be less
+negative and breathing would be more difficult. 24 The lung is particularly susceptible to changes in the magnitude
+and direction of gravitational forces. When someone is standing or sitting upright, the pleural pressure gradient leads to
+increased ventilation further down in the lung. 26 Carbon monoxide has a higher affinity for hemoglobin than oxygen.
+This means that carbon monoxide will preferentially bind to hemoglobin over oxygen. Administration of 100 percent
+oxygen is an effective therapy because at that concentration, oxygen will displace the carbon monoxide from the
+hemoglobin.
+is also reduced at high elevations: PO2
+Chapter 40
+1 Figure 40.10 C 3 Figure 40.17 Blood in the legs is farthest away from the heart and has to flow up to reach it. 4
+A  6 C  8 C  10 C  12 A  14 A  16 A closed circulatory system is a closed-loop system, in which blood is not free in
+a cavity. Blood is separate from the bodily interstitial fluid and contained within blood vessels. In this type of system,
+blood circulates unidirectionally from the heart around the systemic circulatory route, and then returns to the heart.  18
+Red blood cells are coated with proteins called antigens made of glycolipids and glycoproteins. When type A and type
+B blood are mixed, the blood agglutinates because of antibodies in the plasma that bind with the opposing antigen.
+Type  O  blood  has  no  antigens.  The  Rh  blood  group  has  either  the  Rh  antigen  (Rh+)  or  no  Rh  antigen  (Rh–).  20
+Lymph capillaries take fluid from the blood to the lymph nodes. The lymph nodes filter the lymph by percolation through
+connective tissue filled with white blood cells. The white blood cells remove infectious agents, such as bacteria and
+viruses, to clean the lymph before it returns to the bloodstream.  22 The capillaries basically exchange materials with
+their surroundings. Their walls are very thin and are made of one or two layers of cells, where gases, nutrients, and
+waste are diffused. They are distributed as beds, complex networks that link arteries as well as veins.
+Chapter 41
+1 Figure 41.5 C  3 Figure 41.8 Loop diuretics decrease the excretion of salt into the renal medulla, thereby reducing
+its osmolality. As a result, less water is excreted into the medulla by the descending limb, and more water is excreted
+as urine.  4 B  6 A  8 B  10 C  12 D  14 C  16 C  18 Excretion allows an organism to rid itself of waste molecules that
+could be toxic if allowed to accumulate. It also allows the organism to keep the amount of water and dissolved solutes
+in balance.  20 The loop of Henle is part of the renal tubule that loops into the renal medulla. In the loop of Henle,
+the filtrate exchanges solutes and water with the renal medulla and the vasa recta (the peritubular capillary network).
+The vasa recta acts as the countercurrent exchanger. The kidneys maintain the osmolality of the rest of the body at a
+constant 300 mOsm by concentrating the filtrate as it passes through the loop of Henle.  22 The removal of wastes,
+which could otherwise be toxic to an organism, is extremely important for survival. Having organs that specialize in
+this  process  and  that  operate  separately  from  other  organs  provides  a  measure  of  safety  for  the  organism.  24  It
+is believed that the urea cycle evolved to adapt to a changing environment when terrestrial life forms evolved. Arid
+conditions  probably  led  to  the  evolution  of  the  uric  acid  pathway  as  a  means  of  conserving  water.  26  Hormones
+are small molecules that act as messengers within the body. Different regions of the nephron bear specialized cells,
+which  have  receptors  to  respond  to  chemical  messengers  and  hormones.  The  hormones  carry  messages  to  the
+kidney. These hormonal cues help the kidneys synchronize the osmotic needs of the body. Hormones like epinephrine,
+norepinephrine, renin-angiotensin, aldosterone, anti-diuretic hormone, and atrial natriuretic peptide help regulate the
+needs of the body as well as the communication between the different organ systems.
+Chapter 42
+1  Figure 42.11  C  3  Figure 42.16  If  the  blood  of  the  mother  and  fetus  mixes,  memory  cells  that  recognize  the  Rh
+antigen can form late in the first pregnancy. During subsequent pregnancies, these memory cells launch an immune
+attack on the fetal blood cells. Injection of anti-Rh antibody during the first pregnancy prevents the immune response
+from occurring.  4 D  6 A  8 D  10 B  12 D  14 C  16 C  18 D  20 C  22 If the MHC I molecules expressed on donor
+cells  differ  from  the  MHC  I  molecules  expressed  on  recipient  cells,  NK  cells  may  identify  the  donor  cells  as  “non-
+self” and produce perforin and granzymes to induce the donor cells to undergo apoptosis, which would destroy the
+transplanted organ.  24 An antigen is a molecule that reacts with some component of the immune response (antibody,
+B  cell  receptor,  T  cell  receptor).  An  epitope  is  the  region  on  the  antigen  through  which  binding  with  the  immune
+component actually occurs.  26 The TH1 response involves the secretion of cytokines to stimulate macrophages and
+CTLs and improve their destruction of intracellular pathogens and tumor cells. It is associated with inflammation. The
+TH2 response is involved in the stimulation of B cells into plasma cells that synthesize and secrete antibodies.  28 T
+cells bind antigens that have been digested and embedded in MHC molecules by APCs. In contrast, B cells function
+themselves as APCs to bind intact, unprocessed antigens.  30 Cross reactivity of antibodies can be beneficial when it
+allows an individual's immune system to respond to an array of similar pathogens after being exposed to just one of
+them. A potential cost of cross reactivity is an antibody response to parts of the body (self) in addition to the appropriate
+antigen.
+Chapter 43
+1 Figure 43.8 D  3 Figure 43.17 B  4 A  6 D  8 A  10 A  12 C  14 A  16 A  18 C  20 D  22 A  24 B  26 B  28 D  30
+D  31  Sexual  reproduction  produces  a  new  combination  of  genes  in  the  offspring  that  may  better  enable  them  to
+survive changes in the environment and assist in the survival of the species.  33 External fertilization can create large
+numbers  of  offspring  without  requiring  specialized  delivery  or  reproductive  support  organs.  Offspring  develop  and
+mature quickly compared to internally fertilizing species. A disadvantage is that the offspring are out in the environment
+and predation can account for large loss of offspring. The embryos are susceptible to changes in the environment,
+which further depletes their numbers. Internally fertilizing species control their environment and protect their offspring
+from predators but must have specialized organs to complete these tasks and usually produce fewer embryos.  35 In
+phase one (excitement), vasodilation leads to vasocongestion and enlargement of erectile tissues. Vaginal secretions
+are released to lubricate the vagina during intercourse. In phase two (plateau), stimulation continues, the outer third
+of the vaginal wall enlarges with blood, and breathing and heart rate increase. In phase three (orgasm), rhythmic,
+involuntary contractions of muscles occur. In the male, reproductive accessory glands and tubules constrict, depositing
+semen in the urethra; then, the urethra contracts, expelling the semen through the penis. In women, the uterus and
+vaginal muscles contract in waves that may last slightly less than a second each. In phase four (resolution), the
+processes listed in the first three phases reverse themselves and return to their normal state. Men experience a
+refractory period in which they cannot maintain an erection or ejaculate for a period of time ranging from minutes to
+hours. Women do not experience a refractory period. 37 Negative feedback in the male system is supplied through
+two hormones: inhibin and testosterone. Inhibin is produced by Sertoli cells when the sperm count exceeds set limits.
+The hormone inhibits GnRH and FSH, decreasing the activity of the Sertoli cells. Increased levels of testosterone affect
+the release of both GnRH and LH, decreasing the activity of the Leydig cells, resulting in decreased testosterone and
+sperm production. 39 The first trimester lays down the basic structures of the body, including the limb buds, heart,
+eyes, and the liver. The second trimester continues the development of all of the organs and systems established
+during the first trimester. The placenta takes over the production of estrogen and high levels of progesterone and
+handles the nutrient and waste requirements of the fetus. The third trimester exhibits the greatest growth of the fetus,
+culminating in labor and delivery. 41 Multiple sperm can fuse with the egg, resulting in polyspermy. The resulting
+embryo is not genetically viable and dies within a few days. 43 Organs form from the germ layers through the process
+of differentiation. During differentiation, the embryonic stem cells express a specific set of genes that will determine
+their ultimate fate as a cell type. For example, some cells in the ectoderm will express the genes specific to skin
+cells. As a result, these cells will differentiate into epidermal cells. The process of differentiation is regulated by cellular
+signaling cascades.
+Chapter 44
+1 Figure 44.10 Tropical lakes don’t freeze, so they don’t undergo spring turnover in the same way temperate lakes do.
+However, stratification does occur, as well as seasonal turnover. 3 Figure 44.21 B. the photic zone, the intertidal zone,
+the neritic zone, and the oceanic zone 4 B 6 D 8 D 10 D 12 C 14 Ecologists working in organismal or population
+ecology might ask similar questions about how the biotic and abiotic conditions affect particular organisms and,
+thus, might find collaboration to be mutually beneficial. Levels of ecology such as community ecology or ecosystem
+ecology might pose greater challenges for collaboration because these areas are very broad and may include many
+different environmental components. 16 Ocean upwelling is a continual process that occurs year-round. Spring and
+fall turnover in freshwater lakes and ponds, however, is a seasonal process that occurs due to temperature changes
+in the water that take place during springtime warming and autumn cooling. Both ocean upwelling and spring and fall
+turnover enable nutrients in the organic materials at the bottom of the body of water to be recycled and reused by
+living things. 18 Fire is less common in desert biomes than in temperate grasslands because deserts have low net
+primary productivity and, thus, very little plant biomass to fuel a fire. 20 Bogs are low in oxygen and high in organic
+acids. The low oxygen content and the low pH both slow the rate of decomposition. 22 Natural processes such as
+the Milankovitch cycles, variation in solar intensity, and volcanic eruptions can cause periodic, intermittent changes in
+global climate. Human activity, in the form of emissions from the burning of fossil fuels, has caused a progressive rise
+in the levels of atmospheric carbon dioxide.
+Chapter 45
+1 Figure 45.2 Smaller animals require less food and other resources, so the environment can support more of them. 3
+Figure 45.16 Stage 4 represents a population that is decreasing. 4 C 6 A 8 A 10 D 12 C 14 A 16 D 18 A 20
+B 22 D 24 C 26 D 28 B 30 The researcher would mark a certain number of penguins with a tag, release them
+back into the population, and, at a later time, recapture penguins to see what percentage of the recaptured penguins
+was tagged. This percentage would allow an estimation of the size of the penguin population. 32 Parental care is not
+feasible for organisms having many offspring because they do not have the energy available to take care of offspring.
+Most of their energy budget is used in the formation of seeds or offspring, so there is little left for parental care. Also,
+the sheer number of offspring would make individual parental care impossible. 34 In the first part of the curve, when
+few individuals of the species are present and resources are plentiful, growth is exponential, similar to a J-shaped
+curve. Later, growth slows due to the species using up resources. Finally, the population levels off at the carrying
+capacity of the environment, and it is relatively stable over time. 36 If a natural disaster such as a fire happened in
+the winter, when populations are low, it would have a greater effect on the overall population and its recovery than if
+the same disaster occurred during the summer, when population levels are high. 38 Continued exponential human
+population growth results in the human population requiring more resources to sustain itself. These resources are
+usually taken at the expense of the environment and the organisms that rely on the resources in that environment
+(e.g., habitat destruction for human development, water rerouting for irrigation, etc.). The continued use of fossil fuels
+to generate power for human activities also contributes to climate change, changing climates in some areas so that
+certain species can no longer survive there. 40 Jaguars are an apex predator in the Amazon, eating a variety of prey
+animals and not serving as prey to any other predators. Through predation, they control the population sizes of the
+smaller herbivores and omnivores. If jaguars were to disappear from the ecosystem, the smaller herbivore populations
+would dramatically increase, and could overconsume the plant populations. 42 Animals that use aural or pheromone
+signals to communicate with potential mates are able to signal over longer distances. Sound waves and chemicals
+can diffuse out into an environment while visual cues require a direct line of sight between the sender and receiver.
+Animals that use aural cues to acquire mates probably exhibit a lower population density than animals that use visual
+cues.
+Chapter 46
+1 Figure 46.8  According to the first law of thermodynamics, energy can neither be created nor destroyed. Eventually,
+all energy consumed by living systems is lost as heat or used for respiration, and the total energy output of the system
+−) to nitrites
+must equal the energy that went into it.  3 Figure 46.17 C: Nitrification by bacteria converts nitrates (NO3
+−).  4 D  6 B  8 A  10 D  12 D  14 D  16 B  18 C  20 D  22 B  24 B  26 Food webs show interacting groups of
+(NO2
+different species and their many interconnections with each other and the environment. Food chains are linear aspects
+of food webs that describe the succession of organisms consuming one another at defined trophic levels. Food webs
+are a more accurate representation of the structure and dynamics of an ecosystem. Food chains are easier to model
+and  use  for  experimental  studies.  28  Grazing  food  webs  have  a  primary  producer  at  their  base,  which  is  either  a
+plant  for  terrestrial  ecosystems  or  a  phytoplankton  for  aquatic  ecosystems.  The  producers  pass  their  energy  to  the
+various trophic levels of consumers. At the base of detrital food webs are the decomposers, which pass this energy to
+a variety of other consumers. Detrital food webs are important for the health of many grazing food webs because they
+eliminate dead and decaying organic material, thus, clearing space for new organisms and removing potential causes
+of  disease.  By  breaking  down  dead  organic  matter,  decomposers  also  make  mineral  nutrients  available  to  primary
+producers; this process is a vital link in nutrient cycling.  30 Conceptual models allow ecologists to see the “big picture”
+of how different components of the ecosystem interact with each other, energy sources, and resources. However, this
+approach is more descriptive than quantitative, so it is difficult to make conclusions about the resistance or resilience
+of a system. Analytical modeling creates a model that can predict how the ecosystem’s relationships will change in
+response to disturbances, but does not convey the complexity of the relationships seen with conceptual modeling.
+32 NPE measures the rate at which one trophic level can use and make biomass from what it attained in the previous
+level, taking into account respiration,  defecation,  and heat loss. Endotherms  have high metabolism and generate  a
+lot of body heat. Although this gives them advantages in their activity level in colder temperatures, these organisms
+are 10 times less efficient at harnessing the energy from the food they eat compared with cold-blooded animals, and
+thus have to eat more and more often.  34 In this ecological model, the oak trees (producers) would be at the bottom,
+the blue jays would be in the middle level (primary consumer of acorns), and the parasites would be at the top level
+(secondary consumer). However, the pyramid would be inverted since each bird could support several parasites, and
+each tree could support several birds. This pyramid would appear to be the opposite of the energy flow pyramid.  36
+Many factors can kill life in a lake or ocean, such as eutrophication by nutrient-rich surface runoff, oil spills, toxic waste
+spills, changes in climate, and the dumping of garbage into the ocean. Eutrophication is a result of nutrient-rich runoff
+from land using artificial fertilizers high in nitrogen and phosphorus. These nutrients cause the rapid and excessive
+growth of microorganisms, which deplete local dissolved oxygen and kill many fish and other aquatic organisms.  38
+Human activity has greatly increased the amount of carbon dioxide gas in the Earth’s atmosphere. The oceanic and
+atmospheric levels of carbon dioxide are linked so that when atmospheric carbon dioxide levels increase, the amount
+of dissolved carbon dioxide in the ocean also increases (partial pressure of oxygen). When carbon dioxide dissolves in
+water it produces the weak acid bicarbonate. Since the Industrial Revolution the pH of the ocean has dropped 0.1 pH
+units, a 30% increase in acidity.
+Chapter 47
+1  Figure 47.6  A.  An  abundance  of  fern  spores  from  several  species  was  found  below  the  K-Pg  boundary,  but none
+was found above.  3 B  5 C  7 C  9 B  11 D  13 C  15 D  17 The hypothesized cause of the K–Pg extinction event is
+an asteroid impact. The first piece of evidence of the impact is a spike in iridium (an element that is rare on Earth,
+but common in meteors) in the geological layers that mark the K–Pg transition. The second piece of evidence is an
+impact crater off the Yucatán Peninsula that is the right size and age to have caused the extinction  event.  19 Crop
+plants are derived from wild plants, and genes from wild relatives are frequently brought into crop varieties by plant
+breeders to add valued characteristics to the crops. If the wild species are lost, then this genetic variation would no
+longer be available.  21 Human population growth leads to unsustainable resource use, which causes habitat
+destruction to build new human settlements, create agricultural fields, and so on. Larger human populations have also
+led to unsustainable fishing and hunting of wild animal populations. Excessive use of fossil fuels also leads to global
+warming.  23 Larger preserves  will  contain  more  species.  Preserves  should  have  a  buffer  around  them  to  protect
+species  from  edge effects. Preserves that are round or square are better than preserves with many thin arms.
+This OpenStax ancillary resource is © Rice University under a CC-BY 4.0 International license; it may be reproduced
+or modified but must be attributed to OpenStax, Rice University and any changes must be noted.
