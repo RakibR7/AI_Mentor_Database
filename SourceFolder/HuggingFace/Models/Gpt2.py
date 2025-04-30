@@ -1,7 +1,4 @@
-import os
-from huggingface_hub import hf_hub_download
-
-HUGGING_FACE_API_KEY = ("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")
+HUGGING_FACE_API_KEY = ("hugging-face-api")
 
 model_id = "openai-community/gpt2"
 filenames = [
