@@ -1,7 +1,7 @@
 from transformers import AutoTokenizer, AutoModelForCausalLM
 
 # Your Hugging Face API key
-api_key = "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"
+api_key = "huggingface-api-key"
 
 # Load the tokenizer and model with the API key
 tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-3.2-1B", token=api_key)
