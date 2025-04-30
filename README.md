@@ -91,19 +91,6 @@ wikiextractor \
 - Ensure that file paths in WSL use the `/mnt/c/` prefix for Windows drives.
 - The `--json` flag outputs the extracted data in JSON format for easy parsing.
 
-## Happy extracting!
-
-### .
-
-### .
-
-### .
-
-### .
-
-### .
-
-# Alternative version:
 
 
 # WikiExtractor Setup Guide on WSL
@@ -165,7 +152,7 @@ Follow these minimal steps to install and run **WikiExtractor** in **WSL (Window
 - Ensure you replace the paths with your own file locations as necessary.
 - This guide is tailored for Ubuntu in WSL and may need adjustment for different Linux distributions.
 
-With these commands, you should be able to set up and run WikiExtractor successfully. If you run into any issues, feel free to reach out for help! 😊
+With these commands, you should be able to set up and run WikiExtractor successfully. 
 
 
 
